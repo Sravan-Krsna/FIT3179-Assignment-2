@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": "Unemployment Rate against Economic Freedom of a Region",
+    "data": {
+    "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/index2021_data%20(1).csv"
+    },
+    "params": [
+        {
+        "name": "Continent_selection",
+        "bind": {
+        "input": "select",
+        "options": [
+        null,
+        "Asia-Pacific",
+        "Europe",
+        "Middle East and North Africa",
+        "Sub-Saharan Africa",
+        "Americas"
+        ],
+        "labels":[
+        "Show All",
+        "Asia-Pacific",
+        "Europe",
+        "Middle East and North Africa",
+        "Sub-Saharan Africa",
+        "Americas"
+        ],
+        "name": "Continent Selection: "
+        }
+        }
+        ],
+    "transform": [
+        {"filter": "Continent_selection == null || datum.Region == Continent_selection"}
+    ],
+    "mark": "circle",
+    "encoding": {
+    "x": {
+    "field": "Unemployment (%)",
+    "type": "quantitative",
+    "title": "Unemployment Rate",
+    "axis": {"tickCount": 7},
+    "scale": {"type": "linear", "domain": [1, 30]}
+    },
+    "y": {
+    "field": "2021 Score",
+    "type": "quantitative",
+    "axis": {"tickCount": 6},
+    "scale": {"type": "linear", "domain": [1, 100]}
+    },
+    "color": {
+    "field": "Region",
+    "type": "nominal",
+    "scale": {
+    "domain": [
+    "Asia-Pacific",
+    "Europe",
+    "Middle East and North Africa",
+    "Sub-Saharan Africa",
+    "Americas"
+    ],
+    "range": [
+    "#e41a1c",
+    "#984ea3",
+    "#ff7f00",
+    "#a6cee3",
+    "#377eb8"
+    ]
+    }
+    },
+    "opacity": {
+        
+    "value": 0.6
+    },
+    "tooltip": [
+        {"field": "Country Name", "type": "nominal"},
+        {"field": "Region Rank", "type": "nominal", "format": ","},
+        {"field": "Unemployment (%)", "type": "quantitative", "format": ","},
+        {"field": "2021 Score", "type": "quantitative", "format": ","}
+        ]
+    }
+   }
+   
