@@ -1,185 +1,371 @@
-,Country Name,2021,2019
-0,Afghanistan,11.1,8.8
-1,Albania,12.3,13.9
-2,Algeria,11.7,10.0
-3,Angola,6.9,8.2
-4,Argentina,9.8,8.7
-5,Armenia,17.0,18.2
-6,Australia,5.3,5.6
-7,Austria,4.7,5.5
-8,Azerbaijan,5.5,5.0
-9,Bahamas,10.4,12.6
-10,Bahrain,0.7,1.2
-11,Bangladesh,4.2,4.4
-12,Barbados,10.3,9.7
-13,Belarus,4.6,0.5
-14,Belgium,5.6,7.4
-15,Belize,6.4,9.3
-16,Benin,2.2,2.5
-17,Bhutan,2.3,2.4
-18,Bolivia,3.5,3.1
-19,Bosnia and Herzegovina,18.4,25.6
-20,Botswana,18.2,17.4
-21,Brazil,12.1,13.3
-22,Brunei Darussalam,9.1,7.1
-23,Bulgaria,4.3,6.2
-24,Burkina Faso,6.3,6.3
-25,Burma,1.6,0.8
-26,Burundi,1.4,1.6
-27,Cambodia,0.7,0.2
-28,Cameroon,3.4,4.2
-29,Canada,5.6,6.3
-30,Cabo Verde,12.3,10.3
-31,Central African Republic,3.7,6.0
-32,Chad,1.9,5.9
-33,Chile,7.1,7.0
-34,China,4.3,4.7
-35,Colombia,9.7,8.9
-36,Comoros,4.3,4.3
-37,"Congo, Democratic Republic of the Congo",4.2,3.7
-38,"Congo, Republic of",9.5,11.0
-39,Costa Rica,11.9,8.1
-40,Côte d'Ivoire,3.3,2.6
-41,Croatia,6.9,11.2
-42,Cuba,1.6,2.6
-43,Cyprus,7.3,11.0
-44,Czech Republic,1.9,2.9
-45,Denmark,4.9,5.7
-46,Djibouti,10.3,5.8
-47,Dominica,,
-48,Dominican Republic,5.9,5.5
-49,Ecuador,4.0,3.8
-50,Egypt,10.8,12.1
-51,El Salvador,4.1,4.5
-52,Equatorial Guinea,6.4,6.9
-53,Eritrea,5.1,6.4
-54,Estonia,5.1,5.8
-55,Eswatini,22.1,26.4
-56,Ethiopia,2.1,5.2
-57,Fiji,4.1,6.3
-58,Finland,6.6,8.6
-59,France,8.4,9.4
-60,Gabon,20.0,19.7
-61,Gambia,9.1,9.5
-62,Georgia,14.4,11.6
-63,Germany,3.0,3.8
-64,Ghana,4.3,2.4
-65,Greece,17.2,21.5
-66,Guatemala,2.5,2.7
-67,Guinea,4.3,4.5
-68,Guinea-Bissau,2.5,6.1
-69,Guyana,11.9,12.0
-70,Haiti,13.8,14.0
-71,Honduras,5.4,4.5
-72,Hungary,3.4,3.1
-73,Iceland,2.8,4.2
-74,India,5.4,2.8
-75,Indonesia,4.7,3.5
-76,Iran,11.4,4.2
-77,Iraq,12.8,12.5
-78,Ireland,4.9,8.2
-79,Israel,3.9,6.4
-80,Italy,9.9,4.3
-81,Jamaica,8.0,11.2
-82,Japan,2.3,12.5
-83,Jordan,14.7,2.8
-84,Kazakhstan,4.6,14.9
-85,Kenya,2.6,4.9
-86,Kiribati,,11.5
-87,"Korea, North ",25.6,
-88,"Korea, South",4.2,4.8
-89,Kosovo,25.9,3.7
-90,Kuwait,2.2,
-91,Kyrgyz Republic,6.3,2.1
-92,Laos,0.6,7.3
-93,Latvia,6.5,0.7
-94,Lebanon,6.2,8.7
-95,Lesotho,23.4,6.6
-96,Liberia,2.8,27.3
-97,Libya,,2.4
-98,Liechtenstein,1.7,17.7
-99,Lithuania,6.4,2.1 (2016)
-100,Luxembourg,5.4,7.1
-101,North Macedonia,17.8,5.5
-102,Madagascar,1.8,2.0
-103,Malawi,5.7,22.4
-104,Malaysia,3.3,1.8
-105,Maldives,6.1,5.9
-106,Mali,7.2,3.4
-107,Malta,3.5,5.0
-108,Mauritania,9.6,7.9
-109,Mauritius,6.7,4.0
-110,Mexico,3.4,9.9
-111,Micronesia,16.2,7.1
-112,Moldova,5.5,3.4
-113,Mongolia,6.0,
-114,Montenegro,14.9,4.5
-115,Morocco,9.0,7.0
-116,Mozambique,3.2,16.1
-117,Namibia,20.3,9.3
-118,Nepal,1.4,25.0
-119,Netherlands,3.2,23.3
-120,New Zealand,4.1,2.7
-121,Nicaragua,6.8,4.8
-122,Niger,0.5,4.9
-123,Nigeria,8.1,4.4
-124,Norway,3.4,0.4
-125,Oman,2.7,7.0
-126,Pakistan,4.5,4.2
-127,Panama,3.9,3.3
-128,Papua New Guinea,2.5,4.0
-129,Paraguay,4.8,4.5
-130,Peru,3.3,2.7
-131,Philippines,2.2,4.6
-132,Poland,3.5,3.6
-133,Portugal,6.3,2.4
-134,Qatar,0.1,4.9
-135,Romania,4.0,8.9
-136,Russia,4.6,0.1
-137,Rwanda,1.0,4.9
-138,Saint Lucia,20.7,5.2
-139,Saint Vincent and the Grenadines,18.9,1.3
-140,Samoa,8.4,21.0
-141,São Tomé and Príncipe,13.4,18.3
-142,Saudi Arabia,5.9,8.2
-143,Senegal,6.6,13.5
-144,Serbia,12.7,5.5
-145,Seychelles,,4.9
-146,Sierra Leone,4.4,14.1
-147,Singapore,4.1,
-148,Slovakia,5.6,4.5
-149,Slovenia,4.2,2.0
-150,Solomon Islands,0.6,8.1
-151,Somalia,11.4,6.6
-152,South Africa,28.2,2.1
-153,Spain,14.0,6.0
-154,Sri Lanka,4.2,27.3
-155,Sudan,16.5,17.2
-156,Suriname,7.3,4.1
-157,Sweden,6.5,12.7
-158,Switzerland,4.6,8.1
-159,Syria,43.5,6.7
-160,Taiwan ,3.7,4.8
-161,Tajikistan,11.0,14.9
-162,Tanzania,2.0,3.8
-163,Thailand,0.8,10.3
-164,Timor-Leste,4.5,2.2
-165,Togo,2.0,1.1
-166,Tonga,1.1,3.4
-167,Trinidad and Tobago,2.7,1.8
-168,Tunisia,16.0,1.1
-169,Turkey,13.5,4.8
-170,Turkmenistan,3.9,15.4
-171,Uganda,1.8,11.3
-172,Ukraine,8.9,3.4
-173,United Arab Emirates,2.4,2.1
-174,United Kingdom,3.9,9.5
-175,United States,3.7,1.7
-176,Uruguay,8.7,4.3
-177,Uzbekistan,5.9,4.4
-178,Vanuatu,4.4,7.9
-179,Venezuela,24.0,7.2
-180,Vietnam,2.0,5.2
-181,Yemen,,7.7
-182,Zambia,11.4,2.1
-183,Zimbabwe,5.0,14.0
+,Unnamed: 0,Country Name,Unemployment (%),Year
+0,0,Afghanistan,8.8,2019
+1,1,Albania,13.9,2019
+2,2,Algeria,10,2019
+3,3,Angola,8.2,2019
+4,4,Argentina,8.7,2019
+5,5,Armenia,18.2,2019
+6,6,Australia,5.6,2019
+7,7,Austria,5.5,2019
+8,8,Azerbaijan,5,2019
+9,9,Bahamas,12.6,2019
+10,10,Bahrain,1.2,2019
+11,11,Bangladesh,4.4,2019
+12,12,Barbados,9.7,2019
+13,13,Belarus,0.5,2019
+14,14,Belgium,7.4,2019
+15,15,Belize,9.3,2019
+16,16,Benin,2.5,2019
+17,17,Bhutan,2.4,2019
+18,18,Bolivia,3.1,2019
+19,19,Bosnia and Herzegovina,25.6,2019
+20,20,Botswana,17.4,2019
+21,21,Brazil,13.3,2019
+22,22,Brunei Darussalam,7.1,2019
+23,23,Bulgaria,6.2,2019
+24,24,Burkina Faso,6.3,2019
+25,25,Burma,0.8,2019
+26,26,Burundi,1.6,2019
+27,27,Cambodia,0.2,2019
+28,28,Cameroon,4.2,2019
+29,29,Canada,6.3,2019
+30,30,Cabo Verde,10.3,2019
+31,31,Central African Republic,6,2019
+32,32,Chad,5.9,2019
+33,33,Chile,7,2019
+34,34,China,4.7,2019
+35,35,Colombia,8.9,2019
+36,36,Comoros,4.3,2019
+37,37,"Congo, Democratic Republic of the Congo",3.7,2019
+38,38,"Congo, Republic of",11,2019
+39,39,Costa Rica,8.1,2019
+40,40,C�te d'Ivoire,2.6,2019
+41,41,Croatia,11.2,2019
+42,42,Cuba,2.6,2019
+43,43,Cyprus,11,2019
+44,44,Czech Republic,2.9,2019
+45,45,Denmark,5.7,2019
+46,46,Djibouti,5.8,2019
+47,47,Dominica,,2019
+48,48,Dominican Republic,5.5,2019
+49,49,Ecuador,3.8,2019
+50,50,Egypt,12.1,2019
+51,51,El Salvador,4.5,2019
+52,52,Equatorial Guinea,6.9,2019
+53,53,Eritrea,6.4,2019
+54,54,Estonia,5.8,2019
+55,55,Eswatini,26.4,2019
+56,56,Ethiopia,5.2,2019
+57,57,Fiji,6.3,2019
+58,58,Finland,8.6,2019
+59,59,France,9.4,2019
+60,60,Gabon,19.7,2019
+61,61,Gambia,9.5,2019
+62,62,Georgia,11.6,2019
+63,63,Germany,3.8,2019
+64,64,Ghana,2.4,2019
+65,65,Greece,21.5,2019
+66,66,Guatemala,2.7,2019
+67,67,Guinea,4.5,2019
+68,68,Guinea-Bissau,6.1,2019
+69,69,Guyana,12,2019
+70,70,Haiti,14,2019
+71,71,Honduras,4.5,2019
+72,72,Hong Kong,3.1,2019
+73,73,Hungary,4.2,2019
+74,74,Iceland,2.8,2019
+75,75,India,3.5,2019
+76,76,Indonesia,4.2,2019
+77,77,Iran,12.5,2019
+78,78,Iraq,8.2,2019
+79,79,Ireland,6.4,2019
+80,80,Israel,4.3,2019
+81,81,Italy,11.2,2019
+82,82,Jamaica,12.5,2019
+83,83,Japan,2.8,2019
+84,84,Jordan,14.9,2019
+85,85,Kazakhstan,4.9,2019
+86,86,Kenya,11.5,2019
+87,87,Kiribati,,2019
+88,88,"Korea, North ",4.8,2019
+89,89,"Korea, South",3.7,2019
+90,90,Kosovo,,2019
+91,91,Kuwait,2.1,2019
+92,92,Kyrgyz Republic,7.3,2019
+93,93,Laos,0.7,2019
+94,94,Latvia,8.7,2019
+95,95,Lebanon,6.6,2019
+96,96,Lesotho,27.3,2019
+97,97,Liberia,2.4,2019
+98,98,Libya,17.7,2019
+99,99,Liechtenstein,2.1 (2016),2019
+100,100,Lithuania,7.1,2019
+101,101,Luxembourg,5.5,2019
+102,102,Macau,2,2019
+103,103,Macedonia,22.4,2019
+104,104,Madagascar,1.8,2019
+105,105,Malawi,5.9,2019
+106,106,Malaysia,3.4,2019
+107,107,Maldives,5,2019
+108,108,Mali,7.9,2019
+109,109,Malta,4,2019
+110,110,Mauritania,9.9,2019
+111,111,Mauritius,7.1,2019
+112,112,Mexico,3.4,2019
+113,113,Micronesia,,2019
+114,114,Moldova,4.5,2019
+115,115,Mongolia,7,2019
+116,116,Montenegro,16.1,2019
+117,117,Morocco,9.3,2019
+118,118,Mozambique,25,2019
+119,119,Namibia,23.3,2019
+120,120,Nepal,2.7,2019
+121,121,Netherlands,4.8,2019
+122,122,New Zealand,4.9,2019
+123,123,Nicaragua,4.4,2019
+124,124,Niger,0.4,2019
+125,125,Nigeria,7,2019
+126,126,Norway,4.2,2019
+127,127,Oman,3.3,2019
+128,128,Pakistan,4,2019
+129,129,Panama,4.5,2019
+130,130,Papua New Guinea,2.7,2019
+131,131,Paraguay,4.6,2019
+132,132,Peru,3.6,2019
+133,133,Philippines,2.4,2019
+134,134,Poland,4.9,2019
+135,135,Portugal,8.9,2019
+136,136,Qatar,0.1,2019
+137,137,Romania,4.9,2019
+138,138,Russia,5.2,2019
+139,139,Rwanda,1.3,2019
+140,140,Saint Lucia,21,2019
+141,141,Saint Vincent and the Grenadines,18.3,2019
+142,142,Samoa,8.2,2019
+143,143,S�o Tom� and Pr�ncipe,13.5,2019
+144,144,Saudi Arabia,5.5,2019
+145,145,Senegal,4.9,2019
+146,146,Serbia,14.1,2019
+147,147,Seychelles,,2019
+148,148,Sierra Leone,4.5,2019
+149,149,Singapore,2,2019
+150,150,Slovakia,8.1,2019
+151,151,Slovenia,6.6,2019
+152,152,Solomon Islands,2.1,2019
+153,153,Somalia,6,2019
+154,154,South Africa,27.3,2019
+155,155,Spain,17.2,2019
+156,156,Sri Lanka,4.1,2019
+157,157,Sudan,12.7,2019
+158,158,Suriname,8.1,2019
+159,159,Sweden,6.7,2019
+160,160,Switzerland,4.8,2019
+161,161,Syria,14.9,2019
+162,162,Taiwan ,3.8,2019
+163,163,Tajikistan,10.3,2019
+164,164,Tanzania,2.2,2019
+165,165,Thailand,1.1,2019
+166,166,Timor-Leste,3.4,2019
+167,167,Togo,1.8,2019
+168,168,Tonga,1.1,2019
+169,169,Trinidad and Tobago,4.8,2019
+170,170,Tunisia,15.4,2019
+171,171,Turkey,11.3,2019
+172,172,Turkmenistan,3.4,2019
+173,173,Uganda,2.1,2019
+174,174,Ukraine,9.5,2019
+175,175,United Arab Emirates,1.7,2019
+176,176,United Kingdom,4.3,2019
+177,177,United States,4.4,2019
+178,178,Uruguay,7.9,2019
+179,179,Uzbekistan,7.2,2019
+180,180,Vanuatu,5.2,2019
+181,181,Venezuela,7.7,2019
+182,182,Vietnam,2.1,2019
+183,183,Yemen,14,2019
+184,184,Zambia,7.8,2019
+185,185,Zimbabwe,5,2019
+186,0,Afghanistan,11.1,2021
+187,1,Albania,12.3,2021
+188,2,Algeria,11.7,2021
+189,3,Angola,6.9,2021
+190,4,Argentina,9.8,2021
+191,5,Armenia,17.0,2021
+192,6,Australia,5.3,2021
+193,7,Austria,4.7,2021
+194,8,Azerbaijan,5.5,2021
+195,9,Bahamas,10.4,2021
+196,10,Bahrain,0.7,2021
+197,11,Bangladesh,4.2,2021
+198,12,Barbados,10.3,2021
+199,13,Belarus,4.6,2021
+200,14,Belgium,5.6,2021
+201,15,Belize,6.4,2021
+202,16,Benin,2.2,2021
+203,17,Bhutan,2.3,2021
+204,18,Bolivia,3.5,2021
+205,19,Bosnia and Herzegovina,18.4,2021
+206,20,Botswana,18.2,2021
+207,21,Brazil,12.1,2021
+208,22,Brunei Darussalam,9.1,2021
+209,23,Bulgaria,4.3,2021
+210,24,Burkina Faso,6.3,2021
+211,25,Burma,1.6,2021
+212,26,Burundi,1.4,2021
+213,27,Cambodia,0.7,2021
+214,28,Cameroon,3.4,2021
+215,29,Canada,5.6,2021
+216,30,Cabo Verde,12.3,2021
+217,31,Central African Republic,3.7,2021
+218,32,Chad,1.9,2021
+219,33,Chile,7.1,2021
+220,34,China,4.3,2021
+221,35,Colombia,9.7,2021
+222,36,Comoros,4.3,2021
+223,37,"Congo, Democratic Republic of the Congo",4.2,2021
+224,38,"Congo, Republic of",9.5,2021
+225,39,Costa Rica,11.9,2021
+226,40,Côte d'Ivoire,3.3,2021
+227,41,Croatia,6.9,2021
+228,42,Cuba,1.6,2021
+229,43,Cyprus,7.3,2021
+230,44,Czech Republic,1.9,2021
+231,45,Denmark,4.9,2021
+232,46,Djibouti,10.3,2021
+233,47,Dominica,,2021
+234,48,Dominican Republic,5.9,2021
+235,49,Ecuador,4.0,2021
+236,50,Egypt,10.8,2021
+237,51,El Salvador,4.1,2021
+238,52,Equatorial Guinea,6.4,2021
+239,53,Eritrea,5.1,2021
+240,54,Estonia,5.1,2021
+241,55,Eswatini,22.1,2021
+242,56,Ethiopia,2.1,2021
+243,57,Fiji,4.1,2021
+244,58,Finland,6.6,2021
+245,59,France,8.4,2021
+246,60,Gabon,20.0,2021
+247,61,Gambia,9.1,2021
+248,62,Georgia,14.4,2021
+249,63,Germany,3.0,2021
+250,64,Ghana,4.3,2021
+251,65,Greece,17.2,2021
+252,66,Guatemala,2.5,2021
+253,67,Guinea,4.3,2021
+254,68,Guinea-Bissau,2.5,2021
+255,69,Guyana,11.9,2021
+256,70,Haiti,13.8,2021
+257,71,Honduras,5.4,2021
+258,72,Hungary,3.4,2021
+259,73,Iceland,2.8,2021
+260,74,India,5.4,2021
+261,75,Indonesia,4.7,2021
+262,76,Iran,11.4,2021
+263,77,Iraq,12.8,2021
+264,78,Ireland,4.9,2021
+265,79,Israel,3.9,2021
+266,80,Italy,9.9,2021
+267,81,Jamaica,8.0,2021
+268,82,Japan,2.3,2021
+269,83,Jordan,14.7,2021
+270,84,Kazakhstan,4.6,2021
+271,85,Kenya,2.6,2021
+272,86,Kiribati,,2021
+273,87,"Korea, North ",25.6,2021
+274,88,"Korea, South",4.2,2021
+275,89,Kosovo,25.9,2021
+276,90,Kuwait,2.2,2021
+277,91,Kyrgyz Republic,6.3,2021
+278,92,Laos,0.6,2021
+279,93,Latvia,6.5,2021
+280,94,Lebanon,6.2,2021
+281,95,Lesotho,23.4,2021
+282,96,Liberia,2.8,2021
+283,97,Libya,,2021
+284,98,Liechtenstein,1.7,2021
+285,99,Lithuania,6.4,2021
+286,100,Luxembourg,5.4,2021
+287,101,North Macedonia,17.8,2021
+288,102,Madagascar,1.8,2021
+289,103,Malawi,5.7,2021
+290,104,Malaysia,3.3,2021
+291,105,Maldives,6.1,2021
+292,106,Mali,7.2,2021
+293,107,Malta,3.5,2021
+294,108,Mauritania,9.6,2021
+295,109,Mauritius,6.7,2021
+296,110,Mexico,3.4,2021
+297,111,Micronesia,16.2,2021
+298,112,Moldova,5.5,2021
+299,113,Mongolia,6.0,2021
+300,114,Montenegro,14.9,2021
+301,115,Morocco,9.0,2021
+302,116,Mozambique,3.2,2021
+303,117,Namibia,20.3,2021
+304,118,Nepal,1.4,2021
+305,119,Netherlands,3.2,2021
+306,120,New Zealand,4.1,2021
+307,121,Nicaragua,6.8,2021
+308,122,Niger,0.5,2021
+309,123,Nigeria,8.1,2021
+310,124,Norway,3.4,2021
+311,125,Oman,2.7,2021
+312,126,Pakistan,4.5,2021
+313,127,Panama,3.9,2021
+314,128,Papua New Guinea,2.5,2021
+315,129,Paraguay,4.8,2021
+316,130,Peru,3.3,2021
+317,131,Philippines,2.2,2021
+318,132,Poland,3.5,2021
+319,133,Portugal,6.3,2021
+320,134,Qatar,0.1,2021
+321,135,Romania,4.0,2021
+322,136,Russia,4.6,2021
+323,137,Rwanda,1.0,2021
+324,138,Saint Lucia,20.7,2021
+325,139,Saint Vincent and the Grenadines,18.9,2021
+326,140,Samoa,8.4,2021
+327,141,São Tomé and Príncipe,13.4,2021
+328,142,Saudi Arabia,5.9,2021
+329,143,Senegal,6.6,2021
+330,144,Serbia,12.7,2021
+331,145,Seychelles,,2021
+332,146,Sierra Leone,4.4,2021
+333,147,Singapore,4.1,2021
+334,148,Slovakia,5.6,2021
+335,149,Slovenia,4.2,2021
+336,150,Solomon Islands,0.6,2021
+337,151,Somalia,11.4,2021
+338,152,South Africa,28.2,2021
+339,153,Spain,14.0,2021
+340,154,Sri Lanka,4.2,2021
+341,155,Sudan,16.5,2021
+342,156,Suriname,7.3,2021
+343,157,Sweden,6.5,2021
+344,158,Switzerland,4.6,2021
+345,159,Syria,43.5,2021
+346,160,Taiwan ,3.7,2021
+347,161,Tajikistan,11.0,2021
+348,162,Tanzania,2.0,2021
+349,163,Thailand,0.8,2021
+350,164,Timor-Leste,4.5,2021
+351,165,Togo,2.0,2021
+352,166,Tonga,1.1,2021
+353,167,Trinidad and Tobago,2.7,2021
+354,168,Tunisia,16.0,2021
+355,169,Turkey,13.5,2021
+356,170,Turkmenistan,3.9,2021
+357,171,Uganda,1.8,2021
+358,172,Ukraine,8.9,2021
+359,173,United Arab Emirates,2.4,2021
+360,174,United Kingdom,3.9,2021
+361,175,United States,3.7,2021
+362,176,Uruguay,8.7,2021
+363,177,Uzbekistan,5.9,2021
+364,178,Vanuatu,4.4,2021
+365,179,Venezuela,24.0,2021
+366,180,Vietnam,2.0,2021
+367,181,Yemen,,2021
+368,182,Zambia,11.4,2021
+369,183,Zimbabwe,5.0,2021

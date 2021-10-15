@@ -29,14 +29,14 @@
               "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/unemployment.csv"
             },
             "key": "Country Name",
-            "fields": ["2019"]
+            "fields": ["Unemployment (%)"]
           }
         }
-      ],
+      ], 
       "mark": {"type": "geoshape", "stroke": "white"},
       "encoding": {
         "color": {
-          "field": "2019",
+          "field": "Unemployment (%)",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -46,7 +46,7 @@
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country Name"},
-          {"field": "2019", "type": "quantitative"}
+          {"field": "Unemployment (%)", "type": "quantitative"}
         ]
       }
     }
