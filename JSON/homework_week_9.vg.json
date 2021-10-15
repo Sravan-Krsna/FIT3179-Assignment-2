@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Unemployment Rate",
+  "title": "Unemployment Rate 2019",
   "width": 800,
   "height": 500,
   "data": {
@@ -26,7 +26,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/unemployment.csv"
+              "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/unemployment2019.csv"
             },
             "key": "Country Name",
             "fields": ["Unemployment (%)"]
