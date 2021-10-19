@@ -10,7 +10,7 @@
       "color": {"field": "Region", "type": "nominal"},
       "tooltip": [
           {"field":"Region", "type": "nominal"},
-          {"field":"Total Spending", "type": "quantitative"}
+          {"field":"Total Spending", "type": "quantitative", "title": "Total Spending (Million)"}
     ]
     }
   }

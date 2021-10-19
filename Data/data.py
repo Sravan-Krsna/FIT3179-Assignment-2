@@ -8,17 +8,17 @@ data_2019 = pd.read_csv("Data/index2019_data.csv")
 #unemployment.rename(columns={'Unemployment (%)':'2021'}, inplace=True)
 
 
-money = data_2021.groupby('Region')["Gov't Spending"].sum()
-eu = money['Europe'].round()
-ap = money['Asia-Pacific'].round()
-mena = money['Middle East and North Africa'].round()
-ssa = money['Sub-Saharan Africa'].round()
-ame = money['Americas'].round()
+money = data_2021.groupby('Region')["Gov't Spending"].mean()
+eu = money['Europe']
+ap = money['Asia-Pacific']
+mena = money['Middle East and North Africa']
+ssa = money['Sub-Saharan Africa']
+ame = money['Americas']
 print(eu, mena, ssa, ame, ap)
 print(money)
 
 df = {'Region':['Asia-Pacific', 'Europe', 'Middle East and North Africa', 'Sub-Saharan Africa', 'Americas'],
-    'Total Spending':[ap, eu, mena, ssa, ame]}
+    'Average Spending':[ap, eu, mena, ssa, ame]}
 
 df = pd.DataFrame(df)
 
