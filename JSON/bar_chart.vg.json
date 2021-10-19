@@ -2,11 +2,16 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple bar chart with embedded data.",
   "data": {
-    "url": ""
+    "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/growth_2021.csv"
   },
   "mark": "bar",
   "encoding": {
-    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "b", "type": "quantitative"}
+    "x": {"field": "2021", "type": "quantitative", "title":"Annual GDP Growth Rate (%)"},
+    "y": {"field": "Region", "type": "nominal", "axis": {"labelAngle": 0}},
+    "tooltip": [
+      {"field": "Region", "type": "nominal"},
+      {"field": "2021", "type": "quantitative", "title": "Annual GDP Growth Rate (%)"}
+    ]
   }
 }
+
