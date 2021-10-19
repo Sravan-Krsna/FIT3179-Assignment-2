@@ -4,7 +4,7 @@
     "height": 400,
     "title": "Unemployment Rate against Economic Freedom of a Region",
     "data": {
-    "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/index2021_data%20(1).csv"
+    "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/index2021_data.csv"
     },
     "params": [
         {
@@ -44,7 +44,7 @@
     "scale": {"type": "linear", "domain": [1, 30]}
     },
     "y": {
-    "field": "2021 Score",
+    "field": "Government Integrity",
     "type": "quantitative",
     "axis": {"tickCount": 6},
     "scale": {"type": "linear", "domain": [1, 100]}
@@ -77,7 +77,7 @@
         {"field": "Country Name", "type": "nominal"},
         {"field": "Region Rank", "type": "nominal", "format": ","},
         {"field": "Unemployment (%)", "type": "quantitative", "format": ","},
-        {"field": "2021 Score", "type": "quantitative", "format": ","}
+        {"field": "Government Integrity", "type": "quantitative", "format": ","}
         ]
     }
    }
