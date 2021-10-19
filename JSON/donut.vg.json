@@ -2,19 +2,16 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A simple donut chart with embedded data.",
     "data": {
-      "values": [
-        {"category": 1, "value": 4},
-        {"category": 2, "value": 6},
-        {"category": 3, "value": 10},
-        {"category": 4, "value": 3},
-        {"category": 5, "value": 7},
-        {"category": 6, "value": 8}
-      ]
+      "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/Spending.csv"
     },
     "mark": {"type": "arc", "innerRadius": 50},
     "encoding": {
-      "theta": {"field": "value", "type": "quantitative"},
-      "color": {"field": "category", "type": "nominal"}
+      "theta": {"field": "Total Spending", "type": "quantitative"},
+      "color": {"field": "Region", "type": "nominal"},
+      "tooltip": [
+          {"field":"Region", "type": "nominal"},
+          {"field":"Total Spending", "type": "quantitative"}
+    ]
     }
   }
   
