@@ -7,7 +7,7 @@ data_2019 = pd.read_csv("Data/index2019_data.csv")
 #unemployment_2019 = data_2019[['Country Name','Unemployment (%)']]
 #unemployment.rename(columns={'Unemployment (%)':'2021'}, inplace=True)
 
-
+"""
 money = data_2021.groupby('Region')["Gov't Spending"].mean()
 eu = money['Europe']
 ap = money['Asia-Pacific']
@@ -23,3 +23,8 @@ df = {'Region':['Asia-Pacific', 'Europe', 'Middle East and North Africa', 'Sub-S
 df = pd.DataFrame(df)
 
 df.to_csv('Spending.csv')
+"""
+
+df = pd.read_csv("Data/regional_growth.csv")
+growth_2021 = df[['Region', '2021']]
+growth_2021.to_csv('growth_2021.csv')
