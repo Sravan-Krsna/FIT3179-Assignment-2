@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/decade_growth.csv"
+    },
+    "title": "Annual GDP Growth Rate (%) in the Last Decade",
+    "config": {
+        "view": {
+            "strokeWidth": 0,
+            "step": 25
+        },
+        "axis": {
+            "domain": false
+        }
+    },
+    "mark": "rect",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "nominal",
+            "title": "Year"
+        },
+        "y": {
+            "field": "Region",
+            "type": "nominal",
+            "title": "Region"
+        },
+        "color": {
+            "field": "GDP Growth Rate(%)",
+            "aggregate": "max",
+            "type": "quantitative",
+            "legend": {
+                "title": null
+            }
+        },
+        "tooltip":[
+            {"field":"Region", "type": "nominal"},
+            {"field":"GDP Growth Rate(%)", "type": "quantitative"},
+            {"field":"Year", "type": "nominal"}
+        ]
+    }
+  }
