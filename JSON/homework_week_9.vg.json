@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Unemployment Rate 2019",
-  "width": 800,
+  "width": "container",
   "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/Sravan-Krsna/FIT3179-Assignment-2/main/JSON/ne_110m.json",
@@ -26,7 +25,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/unemployment2019.csv"
+              "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/unemployment2021.csv"
             },
             "key": "Country Name",
             "fields": ["Unemployment (%)"]
@@ -40,8 +39,8 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [0, 5, 10, 20],
-            "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603"]
+            "domain": [0, 5, 10, 15, 20, 25],
+            "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603", "#7E3517", "#49413F", "#3D3635"]
           }
         },
         "tooltip": [

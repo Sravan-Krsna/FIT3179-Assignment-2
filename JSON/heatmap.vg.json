@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
     "data": {
         "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/decade_growth.csv"
     },
@@ -11,7 +12,8 @@
         },
         "axis": {
             "domain": false
-        }
+        },
+        "background": "rgb(231, 231, 238)"
     },
     "mark": "rect",
     "encoding": {

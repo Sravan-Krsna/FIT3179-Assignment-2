@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
+    "width": "container",
   "height": 350,
   "config": {
     "view": {
@@ -10,8 +10,9 @@
       "legend": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
       "header": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
       "mark": {"font": "Open Sans"},
-      "title": {"font": "Open Sans", "subtitleFont": "Open Sans"}
-  },"background": "#f2f3f7",
+      "title": {"font": "Open Sans", "subtitleFont": "Open Sans"},
+      "background": "rgb(231, 231, 238)"
+  },
     "data": {
         "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/factors.csv"
     }, 
@@ -75,7 +76,8 @@
       "radius": {"field": "Score", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}, "aggregate": "mean"},
       "color": {"field": "Right", "type": "nominal",
       "scale": {"range": ["#E69F00", "#56B4E9", "#009E73", "#D55E00", "#CC79A7", "#0072B2", 
-                        "##FF0000", "#FF00FF", "#7FFFD4", "#2C3539", "#046307", "#E799A3"]}
+                        "##FF0000", "#FF00FF", "#7FFFD4", "#2C3539", "#046307", "#E799A3"]},
+      "legend":{"offset": -200}
       },
       "tooltip": [
         {

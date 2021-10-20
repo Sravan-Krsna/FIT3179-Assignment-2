@@ -1,25 +1,33 @@
    
-#choropleth_map {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
+#choropleth_map1 {
+	
+	padding-bottom: 50px;
 	/*height: 1000px;
 	width: 800px;*/
 }
 
-#choropleth_map2 {
-	top:100px;
+#donut {
+	top:30px;
 	bottom: 100px; 
 	left: 100px;
 	right: 100px;
+	padding-bottom: 50px;
+	
 	/*height: 1000px;
 	width: 800px;*/
+	
 }
 
 #scatter_plot {
-	top:100px;
-	bottom: 100px; 
+	right: 8px;
+	width: "container";
+	padding-bottom: 50px;
+	/*height: 1000px;
+	width: 800px;*/
+}
+
+#heatmap {
+	 
 	left: 100px;
 	right: 100px;
 	/*height: 1000px;
