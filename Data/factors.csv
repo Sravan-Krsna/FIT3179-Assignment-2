@@ -1,0 +1,2209 @@
+,Country,Score,Right
+0,Afghanistan,30.3,Property Rights
+1,Albania,46.1,Property Rights
+2,Algeria,34.0,Property Rights
+3,Angola,30.3,Property Rights
+4,Argentina,46.1,Property Rights
+5,Armenia,57.3,Property Rights
+6,Australia,81.5,Property Rights
+7,Austria,86.8,Property Rights
+8,Azerbaijan,67.9,Property Rights
+9,Bahamas,48.1,Property Rights
+10,Bahrain,71.5,Property Rights
+11,Bangladesh,38.0,Property Rights
+12,Barbados,52.7,Property Rights
+13,Belarus,58.6,Property Rights
+14,Belgium,84.0,Property Rights
+15,Belize,41.8,Property Rights
+16,Benin,42.5,Property Rights
+17,Bhutan,62.6,Property Rights
+18,Bolivia,18.7,Property Rights
+19,Bosnia and Herzegovina,44.1,Property Rights
+20,Botswana,58.6,Property Rights
+21,Brazil,55.0,Property Rights
+22,Brunei Darussalam,61.1,Property Rights
+23,Bulgaria,66.2,Property Rights
+24,Burkina Faso,45.1,Property Rights
+25,Burma,37.2,Property Rights
+26,Burundi,28.0,Property Rights
+27,Cambodia,39.9,Property Rights
+28,Cameroon,38.3,Property Rights
+29,Canada,84.5,Property Rights
+30,Cabo Verde,44.5,Property Rights
+31,Central African Republic,23.2,Property Rights
+32,Chad,27.7,Property Rights
+33,Chile,70.2,Property Rights
+34,China,62.2,Property Rights
+35,Colombia,59.8,Property Rights
+36,Comoros,34.0,Property Rights
+37,"Congo, Democratic Republic of the Congo",23.0,Property Rights
+38,"Congo, Republic of",32.2,Property Rights
+39,Costa Rica,64.0,Property Rights
+40,Côte d'Ivoire,42.8,Property Rights
+41,Croatia,68.4,Property Rights
+42,Cuba,27.7,Property Rights
+43,Cyprus,78.5,Property Rights
+44,Czech Republic,76.2,Property Rights
+45,Denmark,86.7,Property Rights
+46,Djibouti,42.8,Property Rights
+47,Dominica,51.2,Property Rights
+48,Dominican Republic,51.2,Property Rights
+49,Ecuador,39.5,Property Rights
+50,Egypt,51.2,Property Rights
+51,El Salvador,39.9,Property Rights
+52,Equatorial Guinea,27.8,Property Rights
+53,Eritrea,24.2,Property Rights
+54,Estonia,81.8,Property Rights
+55,Eswatini,48.5,Property Rights
+56,Ethiopia,23.2,Property Rights
+57,Fiji,60.6,Property Rights
+58,Finland,91.9,Property Rights
+59,France,82.2,Property Rights
+60,Gabon,24.2,Property Rights
+61,Gambia,41.8,Property Rights
+62,Georgia,66.9,Property Rights
+63,Germany,78.8,Property Rights
+64,Ghana,49.3,Property Rights
+65,Greece,55.5,Property Rights
+66,Guatemala,43.2,Property Rights
+67,Guinea,32.2,Property Rights
+68,Guinea-Bissau,39.5,Property Rights
+69,Guyana,44.9,Property Rights
+70,Haiti,12.6,Property Rights
+71,Honduras,45.5,Property Rights
+72,Hungary,65.6,Property Rights
+73,Iceland,87.0,Property Rights
+74,India,59.2,Property Rights
+75,Indonesia,59.4,Property Rights
+76,Iran,33.5,Property Rights
+77,Iraq,44.8,Property Rights
+78,Ireland,86.0,Property Rights
+79,Israel,83.6,Property Rights
+80,Italy,75.7,Property Rights
+81,Jamaica,60.6,Property Rights
+82,Japan,87.8,Property Rights
+83,Jordan,66.2,Property Rights
+84,Kazakhstan,60.2,Property Rights
+85,Kenya,60.4,Property Rights
+86,Kiribati,44.8,Property Rights
+87,"Korea, North ",27.7,Property Rights
+88,"Korea, South",80.7,Property Rights
+89,Kosovo,54.5,Property Rights
+90,Kuwait,57.4,Property Rights
+91,Kyrgyz Republic,46.0,Property Rights
+92,Laos,38.8,Property Rights
+93,Latvia,74.7,Property Rights
+94,Lebanon,42.3,Property Rights
+95,Lesotho,41.6,Property Rights
+96,Liberia,29.5,Property Rights
+97,Libya,16.5,Property Rights
+98,Liechtenstein,,Property Rights
+99,Lithuania,78.9,Property Rights
+100,Luxembourg,85.7,Property Rights
+101,North Macedonia,62.6,Property Rights
+102,Madagascar,33.7,Property Rights
+103,Malawi,46.1,Property Rights
+104,Malaysia,85.1,Property Rights
+105,Maldives,44.1,Property Rights
+106,Mali,34.5,Property Rights
+107,Malta,68.2,Property Rights
+108,Mauritania,26.0,Property Rights
+109,Mauritius,78.4,Property Rights
+110,Mexico,53.4,Property Rights
+111,Micronesia,16.5,Property Rights
+112,Moldova,60.6,Property Rights
+113,Mongolia,48.1,Property Rights
+114,Montenegro,57.8,Property Rights
+115,Morocco,67.5,Property Rights
+116,Mozambique,29.5,Property Rights
+117,Namibia,57.1,Property Rights
+118,Nepal,38.1,Property Rights
+119,Netherlands,88.9,Property Rights
+120,New Zealand,91.3,Property Rights
+121,Nicaragua,27.8,Property Rights
+122,Niger,38.8,Property Rights
+123,Nigeria,36.8,Property Rights
+124,Norway,82.4,Property Rights
+125,Oman,68.7,Property Rights
+126,Pakistan,44.9,Property Rights
+127,Panama,54.5,Property Rights
+128,Papua New Guinea,46.1,Property Rights
+129,Paraguay,41.6,Property Rights
+130,Peru,53.3,Property Rights
+131,Philippines,57.0,Property Rights
+132,Poland,63.3,Property Rights
+133,Portugal,74.1,Property Rights
+134,Qatar,68.3,Property Rights
+135,Romania,68.8,Property Rights
+136,Russia,54.4,Property Rights
+137,Rwanda,68.7,Property Rights
+138,Saint Lucia,61.5,Property Rights
+139,Saint Vincent and the Grenadines,48.1,Property Rights
+140,Samoa,48.5,Property Rights
+141,São Tomé and Príncipe,36.8,Property Rights
+142,Saudi Arabia,68.7,Property Rights
+143,Senegal,50.3,Property Rights
+144,Serbia,57.9,Property Rights
+145,Seychelles,65.3,Property Rights
+146,Sierra Leone,42.3,Property Rights
+147,Singapore,97.5,Property Rights
+148,Slovakia,71.5,Property Rights
+149,Slovenia,77.3,Property Rights
+150,Solomon Islands,46.1,Property Rights
+151,Somalia,27.8,Property Rights
+152,South Africa,59.6,Property Rights
+153,Spain,76.4,Property Rights
+154,Sri Lanka,45.4,Property Rights
+155,Sudan,32.6,Property Rights
+156,Suriname,45.5,Property Rights
+157,Sweden,86.6,Property Rights
+158,Switzerland,85.4,Property Rights
+159,Syria,42.5,Property Rights
+160,Taiwan ,87.3,Property Rights
+161,Tajikistan,41.6,Property Rights
+162,Tanzania,41.3,Property Rights
+163,Thailand,60.0,Property Rights
+164,Timor-Leste,37.2,Property Rights
+165,Togo,44.5,Property Rights
+166,Tonga,48.1,Property Rights
+167,Trinidad and Tobago,52.4,Property Rights
+168,Tunisia,53.9,Property Rights
+169,Turkey,61.5,Property Rights
+170,Turkmenistan,27.7,Property Rights
+171,Uganda,44.8,Property Rights
+172,Ukraine,48.5,Property Rights
+173,United Arab Emirates,80.8,Property Rights
+174,United Kingdom,87.6,Property Rights
+175,United States,79.7,Property Rights
+176,Uruguay,68.1,Property Rights
+177,Uzbekistan,57.8,Property Rights
+178,Vanuatu,53.3,Property Rights
+179,Venezuela,7.5,Property Rights
+180,Vietnam,51.3,Property Rights
+181,Yemen,16.5,Property Rights
+182,Zambia,37.2,Property Rights
+183,Zimbabwe,32.6,Property Rights
+184,Afghanistan,25.7,Judical Effectiveness
+185,Albania,22.8,Judical Effectiveness
+186,Algeria,41.6,Judical Effectiveness
+187,Angola,22.8,Judical Effectiveness
+188,Argentina,45.7,Judical Effectiveness
+189,Armenia,55.3,Judical Effectiveness
+190,Australia,90.0,Judical Effectiveness
+191,Austria,83.5,Judical Effectiveness
+192,Azerbaijan,55.8,Judical Effectiveness
+193,Bahamas,45.7,Judical Effectiveness
+194,Bahrain,65.8,Judical Effectiveness
+195,Bangladesh,35.4,Judical Effectiveness
+196,Barbados,49.7,Judical Effectiveness
+197,Belarus,40.4,Judical Effectiveness
+198,Belgium,70.2,Judical Effectiveness
+199,Belize,45.7,Judical Effectiveness
+200,Benin,37.0,Judical Effectiveness
+201,Bhutan,45.7,Judical Effectiveness
+202,Bolivia,11.0,Judical Effectiveness
+203,Bosnia and Herzegovina,33.7,Judical Effectiveness
+204,Botswana,50.8,Judical Effectiveness
+205,Brazil,45.5,Judical Effectiveness
+206,Brunei Darussalam,62.3,Judical Effectiveness
+207,Bulgaria,43.6,Judical Effectiveness
+208,Burkina Faso,36.6,Judical Effectiveness
+209,Burma,19.7,Judical Effectiveness
+210,Burundi,32.1,Judical Effectiveness
+211,Cambodia,23.2,Judical Effectiveness
+212,Cameroon,27.2,Judical Effectiveness
+213,Canada,73.3,Judical Effectiveness
+214,Cabo Verde,47.5,Judical Effectiveness
+215,Central African Republic,28.2,Judical Effectiveness
+216,Chad,25.0,Judical Effectiveness
+217,Chile,68.4,Judical Effectiveness
+218,China,71.5,Judical Effectiveness
+219,Colombia,36.4,Judical Effectiveness
+220,Comoros,28.2,Judical Effectiveness
+221,"Congo, Democratic Republic of the Congo",18.2,Judical Effectiveness
+222,"Congo, Republic of",25.7,Judical Effectiveness
+223,Costa Rica,58.1,Judical Effectiveness
+224,Côte d'Ivoire,34.9,Judical Effectiveness
+225,Croatia,41.1,Judical Effectiveness
+226,Cuba,10.0,Judical Effectiveness
+227,Cyprus,57.9,Judical Effectiveness
+228,Czech Republic,56.8,Judical Effectiveness
+229,Denmark,86.9,Judical Effectiveness
+230,Djibouti,28.2,Judical Effectiveness
+231,Dominica,66.3,Judical Effectiveness
+232,Dominican Republic,28.8,Judical Effectiveness
+233,Ecuador,24.7,Judical Effectiveness
+234,Egypt,54.0,Judical Effectiveness
+235,El Salvador,33.5,Judical Effectiveness
+236,Equatorial Guinea,15.4,Judical Effectiveness
+237,Eritrea,15.4,Judical Effectiveness
+238,Estonia,80.8,Judical Effectiveness
+239,Eswatini,46.1,Judical Effectiveness
+240,Ethiopia,33.8,Judical Effectiveness
+241,Fiji,40.4,Judical Effectiveness
+242,Finland,82.2,Judical Effectiveness
+243,France,69.2,Judical Effectiveness
+244,Gabon,25.5,Judical Effectiveness
+245,Gambia,44.3,Judical Effectiveness
+246,Georgia,59.3,Judical Effectiveness
+247,Germany,69.8,Judical Effectiveness
+248,Ghana,38.2,Judical Effectiveness
+249,Greece,53.5,Judical Effectiveness
+250,Guatemala,32.6,Judical Effectiveness
+251,Guinea,33.4,Judical Effectiveness
+252,Guinea-Bissau,50.8,Judical Effectiveness
+253,Guyana,40.4,Judical Effectiveness
+254,Haiti,15.1,Judical Effectiveness
+255,Honduras,36.0,Judical Effectiveness
+256,Hungary,52.4,Judical Effectiveness
+257,Iceland,72.6,Judical Effectiveness
+258,India,55.9,Judical Effectiveness
+259,Indonesia,48.9,Judical Effectiveness
+260,Iran,28.3,Judical Effectiveness
+261,Iraq,11.0,Judical Effectiveness
+262,Ireland,72.4,Judical Effectiveness
+263,Israel,79.8,Judical Effectiveness
+264,Italy,62.3,Judical Effectiveness
+265,Jamaica,55.1,Judical Effectiveness
+266,Japan,75.5,Judical Effectiveness
+267,Jordan,60.3,Judical Effectiveness
+268,Kazakhstan,62.8,Judical Effectiveness
+269,Kenya,41.5,Judical Effectiveness
+270,Kiribati,33.1,Judical Effectiveness
+271,"Korea, North ",5.0,Judical Effectiveness
+272,"Korea, South",63.4,Judical Effectiveness
+273,Kosovo,55.9,Judical Effectiveness
+274,Kuwait,52.6,Judical Effectiveness
+275,Kyrgyz Republic,23.3,Judical Effectiveness
+276,Laos,37.6,Judical Effectiveness
+277,Latvia,55.9,Judical Effectiveness
+278,Lebanon,33.1,Judical Effectiveness
+279,Lesotho,60.5,Judical Effectiveness
+280,Liberia,40.4,Judical Effectiveness
+281,Libya,19.7,Judical Effectiveness
+282,Liechtenstein,,Judical Effectiveness
+283,Lithuania,68.7,Judical Effectiveness
+284,Luxembourg,77.6,Judical Effectiveness
+285,North Macedonia,40.4,Judical Effectiveness
+286,Madagascar,25.7,Judical Effectiveness
+287,Malawi,42.1,Judical Effectiveness
+288,Malaysia,70.5,Judical Effectiveness
+289,Maldives,28.2,Judical Effectiveness
+290,Mali,21.2,Judical Effectiveness
+291,Malta,57.3,Judical Effectiveness
+292,Mauritania,23.9,Judical Effectiveness
+293,Mauritius,73.6,Judical Effectiveness
+294,Mexico,35.9,Judical Effectiveness
+295,Micronesia,23.3,Judical Effectiveness
+296,Moldova,29.9,Judical Effectiveness
+297,Mongolia,25.9,Judical Effectiveness
+298,Montenegro,56.2,Judical Effectiveness
+299,Morocco,51.2,Judical Effectiveness
+300,Mozambique,26.9,Judical Effectiveness
+301,Namibia,63.6,Judical Effectiveness
+302,Nepal,34.1,Judical Effectiveness
+303,Netherlands,72.8,Judical Effectiveness
+304,New Zealand,80.5,Judical Effectiveness
+305,Nicaragua,19.0,Judical Effectiveness
+306,Niger,45.7,Judical Effectiveness
+307,Nigeria,38.7,Judical Effectiveness
+308,Norway,86.3,Judical Effectiveness
+309,Oman,66.3,Judical Effectiveness
+310,Pakistan,40.7,Judical Effectiveness
+311,Panama,28.1,Judical Effectiveness
+312,Papua New Guinea,50.8,Judical Effectiveness
+313,Paraguay,26.0,Judical Effectiveness
+314,Peru,28.2,Judical Effectiveness
+315,Philippines,34.5,Judical Effectiveness
+316,Poland,48.9,Judical Effectiveness
+317,Portugal,68.5,Judical Effectiveness
+318,Qatar,58.0,Judical Effectiveness
+319,Romania,63.1,Judical Effectiveness
+320,Russia,42.4,Judical Effectiveness
+321,Rwanda,75.2,Judical Effectiveness
+322,Saint Lucia,66.3,Judical Effectiveness
+323,Saint Vincent and the Grenadines,66.3,Judical Effectiveness
+324,Samoa,28.2,Judical Effectiveness
+325,São Tomé and Príncipe,23.3,Judical Effectiveness
+326,Saudi Arabia,76.7,Judical Effectiveness
+327,Senegal,37.8,Judical Effectiveness
+328,Serbia,50.6,Judical Effectiveness
+329,Seychelles,51.6,Judical Effectiveness
+330,Sierra Leone,45.7,Judical Effectiveness
+331,Singapore,90.8,Judical Effectiveness
+332,Slovakia,44.4,Judical Effectiveness
+333,Slovenia,56.3,Judical Effectiveness
+334,Solomon Islands,55.9,Judical Effectiveness
+335,Somalia,23.3,Judical Effectiveness
+336,South Africa,57.1,Judical Effectiveness
+337,Spain,65.4,Judical Effectiveness
+338,Sri Lanka,46.8,Judical Effectiveness
+339,Sudan,19.7,Judical Effectiveness
+340,Suriname,15.4,Judical Effectiveness
+341,Sweden,79.1,Judical Effectiveness
+342,Switzerland,82.2,Judical Effectiveness
+343,Syria,19.7,Judical Effectiveness
+344,Taiwan ,72.9,Judical Effectiveness
+345,Tajikistan,48.8,Judical Effectiveness
+346,Tanzania,40.2,Judical Effectiveness
+347,Thailand,48.1,Judical Effectiveness
+348,Timor-Leste,15.1,Judical Effectiveness
+349,Togo,28.2,Judical Effectiveness
+350,Tonga,23.3,Judical Effectiveness
+351,Trinidad and Tobago,46.9,Judical Effectiveness
+352,Tunisia,41.9,Judical Effectiveness
+353,Turkey,58.6,Judical Effectiveness
+354,Turkmenistan,20.0,Judical Effectiveness
+355,Uganda,36.5,Judical Effectiveness
+356,Ukraine,41.1,Judical Effectiveness
+357,United Arab Emirates,81.1,Judical Effectiveness
+358,United Kingdom,76.7,Judical Effectiveness
+359,United States,72.4,Judical Effectiveness
+360,Uruguay,66.8,Judical Effectiveness
+361,Uzbekistan,50.8,Judical Effectiveness
+362,Vanuatu,34.1,Judical Effectiveness
+363,Venezuela,15.4,Judical Effectiveness
+364,Vietnam,35.9,Judical Effectiveness
+365,Yemen,19.7,Judical Effectiveness
+366,Zambia,26.2,Judical Effectiveness
+367,Zimbabwe,32.0,Judical Effectiveness
+368,Afghanistan,29.1,Government Integrity
+369,Albania,40.6,Government Integrity
+370,Algeria,32.7,Government Integrity
+371,Angola,20.4,Government Integrity
+372,Argentina,54.0,Government Integrity
+373,Armenia,45.0,Government Integrity
+374,Australia,89.8,Government Integrity
+375,Austria,84.8,Government Integrity
+376,Azerbaijan,46.8,Government Integrity
+377,Bahamas,47.5,Government Integrity
+378,Bahrain,64.4,Government Integrity
+379,Bangladesh,27.7,Government Integrity
+380,Barbados,50.2,Government Integrity
+381,Belarus,39.8,Government Integrity
+382,Belgium,81.3,Government Integrity
+383,Belize,36.3,Government Integrity
+384,Benin,32.2,Government Integrity
+385,Bhutan,55.0,Government Integrity
+386,Bolivia,25.9,Government Integrity
+387,Bosnia and Herzegovina,42.4,Government Integrity
+388,Botswana,48.8,Government Integrity
+389,Brazil,47.5,Government Integrity
+390,Brunei Darussalam,47.5,Government Integrity
+391,Bulgaria,46.8,Government Integrity
+392,Burkina Faso,34.5,Government Integrity
+393,Burma,32.7,Government Integrity
+394,Burundi,27.0,Government Integrity
+395,Cambodia,17.0,Government Integrity
+396,Cameroon,21.0,Government Integrity
+397,Canada,87.9,Government Integrity
+398,Cabo Verde,48.7,Government Integrity
+399,Central African Republic,22.0,Government Integrity
+400,Chad,21.0,Government Integrity
+401,Chile,74.5,Government Integrity
+402,China,46.4,Government Integrity
+403,Colombia,49.7,Government Integrity
+404,Comoros,23.6,Government Integrity
+405,"Congo, Democratic Republic of the Congo",11.5,Government Integrity
+406,"Congo, Republic of",23.5,Government Integrity
+407,Costa Rica,59.0,Government Integrity
+408,Côte d'Ivoire,27.0,Government Integrity
+409,Croatia,51.4,Government Integrity
+410,Cuba,48.7,Government Integrity
+411,Cyprus,65.0,Government Integrity
+412,Czech Republic,64.4,Government Integrity
+413,Denmark,93.4,Government Integrity
+414,Djibouti,27.9,Government Integrity
+415,Dominica,51.0,Government Integrity
+416,Dominican Republic,34.6,Government Integrity
+417,Ecuador,38.5,Government Integrity
+418,Egypt,37.0,Government Integrity
+419,El Salvador,34.2,Government Integrity
+420,Equatorial Guinea,17.0,Government Integrity
+421,Eritrea,21.0,Government Integrity
+422,Estonia,86.4,Government Integrity
+423,Eswatini,36.4,Government Integrity
+424,Ethiopia,31.5,Government Integrity
+425,Fiji,46.8,Government Integrity
+426,Finland,97.2,Government Integrity
+427,France,80.1,Government Integrity
+428,Gabon,36.4,Government Integrity
+429,Gambia,35.2,Government Integrity
+430,Georgia,64.6,Government Integrity
+431,Germany,81.5,Government Integrity
+432,Ghana,32.3,Government Integrity
+433,Greece,53.6,Government Integrity
+434,Guatemala,30.1,Government Integrity
+435,Guinea,22.0,Government Integrity
+436,Guinea-Bissau,20.2,Government Integrity
+437,Guyana,38.5,Government Integrity
+438,Haiti,22.0,Government Integrity
+439,Honduras,29.1,Government Integrity
+440,Hungary,48.7,Government Integrity
+441,Iceland,90.6,Government Integrity
+442,India,48.1,Government Integrity
+443,Indonesia,39.1,Government Integrity
+444,Iran,31.8,Government Integrity
+445,Iraq,22.0,Government Integrity
+446,Ireland,82.0,Government Integrity
+447,Israel,76.8,Government Integrity
+448,Italy,63.7,Government Integrity
+449,Jamaica,47.7,Government Integrity
+450,Japan,82.0,Government Integrity
+451,Jordan,51.0,Government Integrity
+452,Kazakhstan,44.6,Government Integrity
+453,Kenya,29.5,Government Integrity
+454,Kiribati,27.9,Government Integrity
+455,"Korea, North ",20.2,Government Integrity
+456,"Korea, South",68.9,Government Integrity
+457,Kosovo,46.4,Government Integrity
+458,Kuwait,47.5,Government Integrity
+459,Kyrgyz Republic,33.7,Government Integrity
+460,Laos,34.5,Government Integrity
+461,Latvia,47.7,Government Integrity
+462,Lebanon,27.9,Government Integrity
+463,Lesotho,32.2,Government Integrity
+464,Liberia,27.0,Government Integrity
+465,Libya,21.0,Government Integrity
+466,Liechtenstein,,Government Integrity
+467,Lithuania,74.5,Government Integrity
+468,Luxembourg,92.5,Government Integrity
+469,North Macedonia,41.9,Government Integrity
+470,Madagascar,20.2,Government Integrity
+471,Malawi,26.8,Government Integrity
+472,Malaysia,53.2,Government Integrity
+473,Maldives,39.5,Government Integrity
+474,Mali,23.6,Government Integrity
+475,Malta,55.0,Government Integrity
+476,Mauritania,21.0,Government Integrity
+477,Mauritius,55.0,Government Integrity
+478,Mexico,39.8,Government Integrity
+479,Micronesia,25.0,Government Integrity
+480,Moldova,38.7,Government Integrity
+481,Mongolia,37.4,Government Integrity
+482,Montenegro,51.0,Government Integrity
+483,Morocco,39.9,Government Integrity
+484,Mozambique,23.8,Government Integrity
+485,Namibia,47.4,Government Integrity
+486,Nepal,33.8,Government Integrity
+487,Netherlands,90.6,Government Integrity
+488,New Zealand,95.3,Government Integrity
+489,Nicaragua,24.8,Government Integrity
+490,Niger,31.8,Government Integrity
+491,Nigeria,23.5,Government Integrity
+492,Norway,95.8,Government Integrity
+493,Oman,66.0,Government Integrity
+494,Pakistan,31.2,Government Integrity
+495,Panama,39.4,Government Integrity
+496,Papua New Guinea,32.7,Government Integrity
+497,Paraguay,32.2,Government Integrity
+498,Peru,36.3,Government Integrity
+499,Philippines,40.6,Government Integrity
+500,Poland,65.0,Government Integrity
+501,Portugal,68.2,Government Integrity
+502,Qatar,54.0,Government Integrity
+503,Romania,54.6,Government Integrity
+504,Russia,41.7,Government Integrity
+505,Rwanda,59.1,Government Integrity
+506,Saint Lucia,44.6,Government Integrity
+507,Saint Vincent and the Grenadines,48.7,Government Integrity
+508,Samoa,32.7,Government Integrity
+509,São Tomé and Príncipe,39.5,Government Integrity
+510,Saudi Arabia,53.2,Government Integrity
+511,Senegal,43.6,Government Integrity
+512,Serbia,45.0,Government Integrity
+513,Seychelles,64.4,Government Integrity
+514,Sierra Leone,30.5,Government Integrity
+515,Singapore,93.2,Government Integrity
+516,Slovakia,48.8,Government Integrity
+517,Slovenia,68.2,Government Integrity
+518,Solomon Islands,35.2,Government Integrity
+519,Somalia,11.5,Government Integrity
+520,South Africa,50.6,Government Integrity
+521,Spain,70.3,Government Integrity
+522,Sri Lanka,39.5,Government Integrity
+523,Sudan,20.2,Government Integrity
+524,Suriname,38.5,Government Integrity
+525,Sweden,92.5,Government Integrity
+526,Switzerland,87.9,Government Integrity
+527,Syria,25.9,Government Integrity
+528,Taiwan ,74.5,Government Integrity
+529,Tajikistan,35.2,Government Integrity
+530,Tanzania,34.5,Government Integrity
+531,Thailand,45.1,Government Integrity
+532,Timor-Leste,37.4,Government Integrity
+533,Togo,32.2,Government Integrity
+534,Tonga,44.6,Government Integrity
+535,Trinidad and Tobago,36.4,Government Integrity
+536,Tunisia,42.0,Government Integrity
+537,Turkey,45.4,Government Integrity
+538,Turkmenistan,22.0,Government Integrity
+539,Uganda,25.0,Government Integrity
+540,Ukraine,37.9,Government Integrity
+541,United Arab Emirates,66.0,Government Integrity
+542,United Kingdom,86.5,Government Integrity
+543,United States,76.8,Government Integrity
+544,Uruguay,75.7,Government Integrity
+545,Uzbekistan,30.5,Government Integrity
+546,Vanuatu,39.5,Government Integrity
+547,Venezuela,15.1,Government Integrity
+548,Vietnam,38.0,Government Integrity
+549,Yemen,17.0,Government Integrity
+550,Zambia,30.5,Government Integrity
+551,Zimbabwe,21.3,Government Integrity
+552,Afghanistan,91.1,Tax Burden
+553,Albania,89.0,Tax Burden
+554,Algeria,67.2,Tax Burden
+555,Angola,87.3,Tax Burden
+556,Argentina,70.4,Tax Burden
+557,Armenia,87.1,Tax Burden
+558,Australia,62.6,Tax Burden
+559,Austria,45.7,Tax Burden
+560,Azerbaijan,88.1,Tax Burden
+561,Bahamas,97.1,Tax Burden
+562,Bahrain,100.0,Tax Burden
+563,Bangladesh,84.0,Tax Burden
+564,Barbados,79.3,Tax Burden
+565,Belarus,92.9,Tax Burden
+566,Belgium,46.5,Tax Burden
+567,Belize,78.7,Tax Burden
+568,Benin,68.4,Tax Burden
+569,Bhutan,82.2,Tax Burden
+570,Bolivia,85.3,Tax Burden
+571,Bosnia and Herzegovina,93.8,Tax Burden
+572,Botswana,87.4,Tax Burden
+573,Brazil,70.1,Tax Burden
+574,Brunei Darussalam,92.3,Tax Burden
+575,Bulgaria,93.9,Tax Burden
+576,Burkina Faso,80.9,Tax Burden
+577,Burma,87.2,Tax Burden
+578,Burundi,77.1,Tax Burden
+579,Cambodia,89.1,Tax Burden
+580,Cameroon,74.8,Tax Burden
+581,Canada,76.0,Tax Burden
+582,Cabo Verde,77.9,Tax Burden
+583,Central African Republic,65.3,Tax Burden
+584,Chad,44.6,Tax Burden
+585,Chile,72.3,Tax Burden
+586,China,72.6,Tax Burden
+587,Colombia,69.7,Tax Burden
+588,Comoros,63.5,Tax Burden
+589,"Congo, Democratic Republic of the Congo",71.3,Tax Burden
+590,"Congo, Republic of",80.4,Tax Burden
+591,Costa Rica,79.9,Tax Burden
+592,Côte d'Ivoire,77.6,Tax Burden
+593,Croatia,79.0,Tax Burden
+594,Cuba,47.1,Tax Burden
+595,Cyprus,80.2,Tax Burden
+596,Czech Republic,79.1,Tax Burden
+597,Denmark,43.7,Tax Burden
+598,Djibouti,79.6,Tax Burden
+599,Dominica,70.0,Tax Burden
+600,Dominican Republic,84.6,Tax Burden
+601,Ecuador,77.1,Tax Burden
+602,Egypt,86.9,Tax Burden
+603,El Salvador,77.9,Tax Burden
+604,Equatorial Guinea,75.2,Tax Burden
+605,Eritrea,74.0,Tax Burden
+606,Estonia,81.0,Tax Burden
+607,Eswatini,78.7,Tax Burden
+608,Ethiopia,78.2,Tax Burden
+609,Fiji,86.2,Tax Burden
+610,Finland,68.0,Tax Burden
+611,France,50.7,Tax Burden
+612,Gabon,77.7,Tax Burden
+613,Gambia,76.9,Tax Burden
+614,Georgia,89.1,Tax Burden
+615,Germany,60.4,Tax Burden
+616,Ghana,82.8,Tax Burden
+617,Greece,59.9,Tax Burden
+618,Guatemala,91.8,Tax Burden
+619,Guinea,69.7,Tax Burden
+620,Guinea-Bissau,88.7,Tax Burden
+621,Guyana,64.6,Tax Burden
+622,Haiti,80.2,Tax Burden
+623,Honduras,82.2,Tax Burden
+624,Hungary,83.6,Tax Burden
+625,Iceland,72.4,Tax Burden
+626,India,78.7,Tax Burden
+627,Indonesia,83.7,Tax Burden
+628,Iran,80.8,Tax Burden
+629,Iraq,,Tax Burden
+630,Ireland,76.6,Tax Burden
+631,Israel,60.0,Tax Burden
+632,Italy,58.1,Tax Burden
+633,Jamaica,79.7,Tax Burden
+634,Japan,67.8,Tax Burden
+635,Jordan,84.7,Tax Burden
+636,Kazakhstan,93.6,Tax Burden
+637,Kenya,78.7,Tax Burden
+638,Kiribati,70.7,Tax Burden
+639,"Korea, North ",0.0,Tax Burden
+640,"Korea, South",63.0,Tax Burden
+641,Kosovo,92.6,Tax Burden
+642,Kuwait,97.7,Tax Burden
+643,Kyrgyz Republic,94.8,Tax Burden
+644,Laos,87.1,Tax Burden
+645,Latvia,76.7,Tax Burden
+646,Lebanon,88.5,Tax Burden
+647,Lesotho,71.5,Tax Burden
+648,Liberia,85.8,Tax Burden
+649,Libya,,Tax Burden
+650,Liechtenstein,,Tax Burden
+651,Lithuania,84.6,Tax Burden
+652,Luxembourg,63.4,Tax Burden
+653,North Macedonia,94.9,Tax Burden
+654,Madagascar,90.6,Tax Burden
+655,Malawi,79.0,Tax Burden
+656,Malaysia,83.8,Tax Burden
+657,Maldives,96.5,Tax Burden
+658,Mali,69.0,Tax Burden
+659,Malta,68.6,Tax Burden
+660,Mauritania,74.3,Tax Burden
+661,Mauritius,91.6,Tax Burden
+662,Mexico,76.1,Tax Burden
+663,Micronesia,88.2,Tax Burden
+664,Moldova,94.0,Tax Burden
+665,Mongolia,89.9,Tax Burden
+666,Montenegro,83.6,Tax Burden
+667,Morocco,68.3,Tax Burden
+668,Mozambique,74.8,Tax Burden
+669,Namibia,67.5,Tax Burden
+670,Nepal,83.2,Tax Burden
+671,Netherlands,51.7,Tax Burden
+672,New Zealand,70.6,Tax Burden
+673,Nicaragua,77.1,Tax Burden
+674,Niger,77.1,Tax Burden
+675,Nigeria,84.9,Tax Burden
+676,Norway,57.1,Tax Burden
+677,Oman,97.7,Tax Burden
+678,Pakistan,73.8,Tax Burden
+679,Panama,85.2,Tax Burden
+680,Papua New Guinea,71.5,Tax Burden
+681,Paraguay,96.2,Tax Burden
+682,Peru,79.4,Tax Burden
+683,Philippines,76.8,Tax Burden
+684,Poland,73.9,Tax Burden
+685,Portugal,60.0,Tax Burden
+686,Qatar,97.9,Tax Burden
+687,Romania,94.3,Tax Burden
+688,Russia,93.0,Tax Burden
+689,Rwanda,79.5,Tax Burden
+690,Saint Lucia,76.9,Tax Burden
+691,Saint Vincent and the Grenadines,74.9,Tax Burden
+692,Samoa,78.9,Tax Burden
+693,São Tomé and Príncipe,88.4,Tax Burden
+694,Saudi Arabia,99.1,Tax Burden
+695,Senegal,72.4,Tax Burden
+696,Serbia,92.5,Tax Burden
+697,Seychelles,76.9,Tax Burden
+698,Sierra Leone,86.7,Tax Burden
+699,Singapore,90.5,Tax Burden
+700,Slovakia,78.4,Tax Burden
+701,Slovenia,58.2,Tax Burden
+702,Solomon Islands,66.3,Tax Burden
+703,Somalia,,Tax Burden
+704,South Africa,63.9,Tax Burden
+705,Spain,61.7,Tax Burden
+706,Sri Lanka,85.0,Tax Burden
+707,Sudan,84.9,Tax Burden
+708,Suriname,70.0,Tax Burden
+709,Sweden,43.6,Tax Burden
+710,Switzerland,70.4,Tax Burden
+711,Syria,,Tax Burden
+712,Taiwan ,79.2,Tax Burden
+713,Tajikistan,91.9,Tax Burden
+714,Tanzania,80.7,Tax Burden
+715,Thailand,81.5,Tax Burden
+716,Timor-Leste,91.7,Tax Burden
+717,Togo,68.0,Tax Burden
+718,Tonga,84.8,Tax Burden
+719,Trinidad and Tobago,79.5,Tax Burden
+720,Tunisia,71.7,Tax Burden
+721,Turkey,73.2,Tax Burden
+722,Turkmenistan,92.6,Tax Burden
+723,Uganda,73.2,Tax Burden
+724,Ukraine,88.7,Tax Burden
+725,United Arab Emirates,100.0,Tax Burden
+726,United Kingdom,64.9,Tax Burden
+727,United States,76.0,Tax Burden
+728,Uruguay,72.6,Tax Burden
+729,Uzbekistan,92.4,Tax Burden
+730,Vanuatu,96.8,Tax Burden
+731,Venezuela,71.1,Tax Burden
+732,Vietnam,80.3,Tax Burden
+733,Yemen,,Tax Burden
+734,Zambia,71.1,Tax Burden
+735,Zimbabwe,63.4,Tax Burden
+736,Afghanistan,76.1,Gov't Spending
+737,Albania,74.6,Gov't Spending
+738,Algeria,55.4,Gov't Spending
+739,Angola,86.9,Gov't Spending
+740,Argentina,52.8,Gov't Spending
+741,Armenia,81.3,Gov't Spending
+742,Australia,58.1,Gov't Spending
+743,Austria,29.1,Gov't Spending
+744,Azerbaijan,65.2,Gov't Spending
+745,Bahamas,87.6,Gov't Spending
+746,Bahrain,67.1,Gov't Spending
+747,Bangladesh,93.8,Gov't Spending
+748,Barbados,73.1,Gov't Spending
+749,Belarus,55.5,Gov't Spending
+750,Belgium,18.4,Gov't Spending
+751,Belize,64.7,Gov't Spending
+752,Benin,92.0,Gov't Spending
+753,Bhutan,71.6,Gov't Spending
+754,Bolivia,58.4,Gov't Spending
+755,Bosnia and Herzegovina,49.5,Gov't Spending
+756,Botswana,68.2,Gov't Spending
+757,Brazil,56.5,Gov't Spending
+758,Brunei Darussalam,67.6,Gov't Spending
+759,Bulgaria,64.7,Gov't Spending
+760,Burkina Faso,81.9,Gov't Spending
+761,Burma,87.1,Gov't Spending
+762,Burundi,79.3,Gov't Spending
+763,Cambodia,84.3,Gov't Spending
+764,Cameroon,89.0,Gov't Spending
+765,Canada,49.8,Gov't Spending
+766,Cabo Verde,70.7,Gov't Spending
+767,Central African Republic,92.2,Gov't Spending
+768,Chad,93.9,Gov't Spending
+769,Chile,80.4,Gov't Spending
+770,China,67.6,Gov't Spending
+771,Colombia,69.3,Gov't Spending
+772,Comoros,91.6,Gov't Spending
+773,"Congo, Democratic Republic of the Congo",96.0,Gov't Spending
+774,"Congo, Republic of",84.0,Gov't Spending
+775,Costa Rica,87.7,Gov't Spending
+776,Côte d'Ivoire,90.4,Gov't Spending
+777,Croatia,35.8,Gov't Spending
+778,Cuba,0.0,Gov't Spending
+779,Cyprus,52.1,Gov't Spending
+780,Czech Republic,51.4,Gov't Spending
+781,Denmark,23.1,Gov't Spending
+782,Djibouti,80.4,Gov't Spending
+783,Dominica,7.4,Gov't Spending
+784,Dominican Republic,91.7,Gov't Spending
+785,Ecuador,58.5,Gov't Spending
+786,Egypt,73.1,Gov't Spending
+787,El Salvador,81.0,Gov't Spending
+788,Equatorial Guinea,90.0,Gov't Spending
+789,Eritrea,64.3,Gov't Spending
+790,Estonia,54.4,Gov't Spending
+791,Eswatini,64.3,Gov't Spending
+792,Ethiopia,91.9,Gov't Spending
+793,Fiji,71.1,Gov't Spending
+794,Finland,14.3,Gov't Spending
+795,France,6.3,Gov't Spending
+796,Gabon,90.8,Gov't Spending
+797,Gambia,84.1,Gov't Spending
+798,Georgia,76.9,Gov't Spending
+799,Germany,40.3,Gov't Spending
+800,Ghana,87.8,Gov't Spending
+801,Greece,34.2,Gov't Spending
+802,Guatemala,94.8,Gov't Spending
+803,Guinea,92.5,Gov't Spending
+804,Guinea-Bissau,88.7,Gov't Spending
+805,Guyana,77.3,Gov't Spending
+806,Haiti,91.3,Gov't Spending
+807,Honduras,79.3,Gov't Spending
+808,Hungary,35.0,Gov't Spending
+809,Iceland,46.2,Gov't Spending
+810,India,78.5,Gov't Spending
+811,Indonesia,91.8,Gov't Spending
+812,Iran,90.1,Gov't Spending
+813,Iraq,65.3,Gov't Spending
+814,Ireland,81.1,Gov't Spending
+815,Israel,53.8,Gov't Spending
+816,Italy,28.9,Gov't Spending
+817,Jamaica,74.4,Gov't Spending
+818,Japan,57.8,Gov't Spending
+819,Jordan,73.3,Gov't Spending
+820,Kazakhstan,86.7,Gov't Spending
+821,Kenya,80.2,Gov't Spending
+822,Kiribati,0.0,Gov't Spending
+823,"Korea, North ",0.0,Gov't Spending
+824,"Korea, South",86.9,Gov't Spending
+825,Kosovo,75.0,Gov't Spending
+826,Kuwait,21.4,Gov't Spending
+827,Kyrgyz Republic,63.8,Gov't Spending
+828,Laos,86.8,Gov't Spending
+829,Latvia,57.6,Gov't Spending
+830,Lebanon,70.3,Gov't Spending
+831,Lesotho,22.2,Gov't Spending
+832,Liberia,68.3,Gov't Spending
+833,Libya,0.0,Gov't Spending
+834,Liechtenstein,,Gov't Spending
+835,Lithuania,66.8,Gov't Spending
+836,Luxembourg,46.2,Gov't Spending
+837,North Macedonia,71.0,Gov't Spending
+838,Madagascar,93.4,Gov't Spending
+839,Malawi,72.3,Gov't Spending
+840,Malaysia,84.3,Gov't Spending
+841,Maldives,67.0,Gov't Spending
+842,Mali,85.3,Gov't Spending
+843,Malta,60.9,Gov't Spending
+844,Mauritania,88.4,Gov't Spending
+845,Mauritius,78.0,Gov't Spending
+846,Mexico,79.8,Gov't Spending
+847,Micronesia,0.0,Gov't Spending
+848,Moldova,71.0,Gov't Spending
+849,Mongolia,71.5,Gov't Spending
+850,Montenegro,35.3,Gov't Spending
+851,Morocco,73.0,Gov't Spending
+852,Mozambique,71.4,Gov't Spending
+853,Namibia,57.4,Gov't Spending
+854,Nepal,73.2,Gov't Spending
+855,Netherlands,47.7,Gov't Spending
+856,New Zealand,58.1,Gov't Spending
+857,Nicaragua,77.5,Gov't Spending
+858,Niger,87.1,Gov't Spending
+859,Nigeria,95.3,Gov't Spending
+860,Norway,25.3,Gov't Spending
+861,Oman,39.2,Gov't Spending
+862,Pakistan,86.0,Gov't Spending
+863,Panama,85.2,Gov't Spending
+864,Papua New Guinea,88.0,Gov't Spending
+865,Paraguay,86.7,Gov't Spending
+866,Peru,86.4,Gov't Spending
+867,Philippines,87.4,Gov't Spending
+868,Poland,48.1,Gov't Spending
+869,Portugal,42.4,Gov't Spending
+870,Qatar,69.2,Gov't Spending
+871,Romania,69.2,Gov't Spending
+872,Russia,66.1,Gov't Spending
+873,Rwanda,78.5,Gov't Spending
+874,Saint Lucia,83.2,Gov't Spending
+875,Saint Vincent and the Grenadines,71.6,Gov't Spending
+876,Samoa,71.1,Gov't Spending
+877,São Tomé and Príncipe,79.7,Gov't Spending
+878,Saudi Arabia,62.9,Gov't Spending
+879,Senegal,84.2,Gov't Spending
+880,Serbia,49.6,Gov't Spending
+881,Seychelles,60.9,Gov't Spending
+882,Sierra Leone,85.9,Gov't Spending
+883,Singapore,94.1,Gov't Spending
+884,Slovakia,47.0,Gov't Spending
+885,Slovenia,42.5,Gov't Spending
+886,Solomon Islands,55.3,Gov't Spending
+887,Somalia,,Gov't Spending
+888,South Africa,65.9,Gov't Spending
+889,Spain,48.1,Gov't Spending
+890,Sri Lanka,88.4,Gov't Spending
+891,Sudan,91.9,Gov't Spending
+892,Suriname,68.2,Gov't Spending
+893,Sweden,29.5,Gov't Spending
+894,Switzerland,67.6,Gov't Spending
+895,Syria,,Gov't Spending
+896,Taiwan ,91.0,Gov't Spending
+897,Tajikistan,68.6,Gov't Spending
+898,Tanzania,91.8,Gov't Spending
+899,Thailand,86.0,Gov't Spending
+900,Timor-Leste,0.0,Gov't Spending
+901,Togo,84.8,Gov't Spending
+902,Tonga,53.7,Gov't Spending
+903,Trinidad and Tobago,70.9,Gov't Spending
+904,Tunisia,71.1,Gov't Spending
+905,Turkey,64.5,Gov't Spending
+906,Turkmenistan,93.2,Gov't Spending
+907,Uganda,91.6,Gov't Spending
+908,Ukraine,48.2,Gov't Spending
+909,United Arab Emirates,73.0,Gov't Spending
+910,United Kingdom,54.8,Gov't Spending
+911,United States,62.2,Gov't Spending
+912,Uruguay,66.9,Gov't Spending
+913,Uzbekistan,79.9,Gov't Spending
+914,Vanuatu,61.7,Gov't Spending
+915,Venezuela,61.5,Gov't Spending
+916,Vietnam,86.0,Gov't Spending
+917,Yemen,95.6,Gov't Spending
+918,Zambia,78.5,Gov't Spending
+919,Zimbabwe,89.4,Gov't Spending
+920,Afghanistan,99.9,Fiscal Health
+921,Albania,86.6,Fiscal Health
+922,Algeria,49.1,Fiscal Health
+923,Angola,77.9,Fiscal Health
+924,Argentina,38.4,Fiscal Health
+925,Armenia,84.3,Fiscal Health
+926,Australia,88.7,Fiscal Health
+927,Austria,90.0,Fiscal Health
+928,Azerbaijan,99.4,Fiscal Health
+929,Bahamas,72.7,Fiscal Health
+930,Bahrain,0.0,Fiscal Health
+931,Bangladesh,66.3,Fiscal Health
+932,Barbados,79.8,Fiscal Health
+933,Belarus,96.5,Fiscal Health
+934,Belgium,78.7,Fiscal Health
+935,Belize,68.5,Fiscal Health
+936,Benin,86.3,Fiscal Health
+937,Bhutan,70.2,Fiscal Health
+938,Bolivia,13.4,Fiscal Health
+939,Bosnia and Herzegovina,97.1,Fiscal Health
+940,Botswana,74.8,Fiscal Health
+941,Brazil,5.3,Fiscal Health
+942,Brunei Darussalam,20.0,Fiscal Health
+943,Bulgaria,99.2,Fiscal Health
+944,Burkina Faso,60.8,Fiscal Health
+945,Burma,81.9,Fiscal Health
+946,Burundi,32.2,Fiscal Health
+947,Cambodia,98.3,Fiscal Health
+948,Cameroon,79.9,Fiscal Health
+949,Canada,84.2,Fiscal Health
+950,Cabo Verde,69.7,Fiscal Health
+951,Central African Republic,95.4,Fiscal Health
+952,Chad,96.1,Fiscal Health
+953,Chile,90.4,Fiscal Health
+954,China,54.8,Fiscal Health
+955,Colombia,78.9,Fiscal Health
+956,Comoros,97.3,Fiscal Health
+957,"Congo, Democratic Republic of the Congo",99.5,Fiscal Health
+958,"Congo, Republic of",81.8,Fiscal Health
+959,Costa Rica,24.3,Fiscal Health
+960,Côte d'Ivoire,84.1,Fiscal Health
+961,Croatia,89.6,Fiscal Health
+962,Cuba,14.6,Fiscal Health
+963,Cyprus,82.0,Fiscal Health
+964,Czech Republic,98.1,Fiscal Health
+965,Denmark,98.2,Fiscal Health
+966,Djibouti,79.4,Fiscal Health
+967,Dominica,6.1,Fiscal Health
+968,Dominican Republic,84.4,Fiscal Health
+969,Ecuador,75.9,Fiscal Health
+970,Egypt,6.0,Fiscal Health
+971,El Salvador,79.6,Fiscal Health
+972,Equatorial Guinea,96.1,Fiscal Health
+973,Eritrea,78.1,Fiscal Health
+974,Estonia,99.6,Fiscal Health
+975,Eswatini,16.4,Fiscal Health
+976,Ethiopia,79.6,Fiscal Health
+977,Fiji,68.4,Fiscal Health
+978,Finland,91.4,Fiscal Health
+979,France,69.0,Fiscal Health
+980,Gabon,93.7,Fiscal Health
+981,Gambia,54.5,Fiscal Health
+982,Georgia,94.9,Fiscal Health
+983,Germany,92.8,Fiscal Health
+984,Ghana,31.7,Fiscal Health
+985,Greece,80.0,Fiscal Health
+986,Guatemala,92.1,Fiscal Health
+987,Guinea,95.3,Fiscal Health
+988,Guinea-Bissau,69.6,Fiscal Health
+989,Guyana,69.8,Fiscal Health
+990,Haiti,92.9,Fiscal Health
+991,Honduras,96.7,Fiscal Health
+992,Hungary,83.3,Fiscal Health
+993,Iceland,97.6,Fiscal Health
+994,India,18.0,Fiscal Health
+995,Indonesia,90.7,Fiscal Health
+996,Iran,82.8,Fiscal Health
+997,Iraq,94.7,Fiscal Health
+998,Ireland,93.1,Fiscal Health
+999,Israel,79.2,Fiscal Health
+1000,Italy,73.0,Fiscal Health
+1001,Jamaica,83.1,Fiscal Health
+1002,Japan,67.5,Fiscal Health
+1003,Jordan,45.5,Fiscal Health
+1004,Kazakhstan,98.3,Fiscal Health
+1005,Kenya,12.6,Fiscal Health
+1006,Kiribati,98.9,Fiscal Health
+1007,"Korea, North ",0.0,Fiscal Health
+1008,"Korea, South",96.7,Fiscal Health
+1009,Kosovo,90.5,Fiscal Health
+1010,Kuwait,99.7,Fiscal Health
+1011,Kyrgyz Republic,90.6,Fiscal Health
+1012,Laos,51.1,Fiscal Health
+1013,Latvia,96.6,Fiscal Health
+1014,Lebanon,0.0,Fiscal Health
+1015,Lesotho,67.2,Fiscal Health
+1016,Liberia,54.3,Fiscal Health
+1017,Libya,19.9,Fiscal Health
+1018,Liechtenstein,,Fiscal Health
+1019,Lithuania,97.2,Fiscal Health
+1020,Luxembourg,99.0,Fiscal Health
+1021,North Macedonia,87.8,Fiscal Health
+1022,Madagascar,92.9,Fiscal Health
+1023,Malawi,25.4,Fiscal Health
+1024,Malaysia,79.4,Fiscal Health
+1025,Maldives,35.9,Fiscal Health
+1026,Mali,81.3,Fiscal Health
+1027,Malta,96.3,Fiscal Health
+1028,Mauritania,93.3,Fiscal Health
+1029,Mauritius,73.5,Fiscal Health
+1030,Mexico,88.7,Fiscal Health
+1031,Micronesia,99.3,Fiscal Health
+1032,Moldova,96.5,Fiscal Health
+1033,Mongolia,91.3,Fiscal Health
+1034,Montenegro,37.2,Fiscal Health
+1035,Morocco,68.5,Fiscal Health
+1036,Mozambique,62.3,Fiscal Health
+1037,Namibia,53.7,Fiscal Health
+1038,Nepal,61.8,Fiscal Health
+1039,Netherlands,95.3,Fiscal Health
+1040,New Zealand,98.2,Fiscal Health
+1041,Nicaragua,91.8,Fiscal Health
+1042,Niger,76.2,Fiscal Health
+1043,Nigeria,59.9,Fiscal Health
+1044,Norway,96.6,Fiscal Health
+1045,Oman,12.2,Fiscal Health
+1046,Pakistan,7.4,Fiscal Health
+1047,Panama,82.8,Fiscal Health
+1048,Papua New Guinea,82.0,Fiscal Health
+1049,Paraguay,91.6,Fiscal Health
+1050,Peru,91.5,Fiscal Health
+1051,Philippines,94.3,Fiscal Health
+1052,Poland,94.6,Fiscal Health
+1053,Portugal,78.2,Fiscal Health
+1054,Qatar,94.5,Fiscal Health
+1055,Romania,78.9,Fiscal Health
+1056,Russia,99.6,Fiscal Health
+1057,Rwanda,78.0,Fiscal Health
+1058,Saint Lucia,86.2,Fiscal Health
+1059,Saint Vincent and the Grenadines,87.6,Fiscal Health
+1060,Samoa,95.2,Fiscal Health
+1061,São Tomé and Príncipe,74.6,Fiscal Health
+1062,Saudi Arabia,31.0,Fiscal Health
+1063,Senegal,72.2,Fiscal Health
+1064,Serbia,94.6,Fiscal Health
+1065,Seychelles,93.2,Fiscal Health
+1066,Sierra Leone,39.7,Fiscal Health
+1067,Singapore,80.0,Fiscal Health
+1068,Slovakia,93.4,Fiscal Health
+1069,Slovenia,91.1,Fiscal Health
+1070,Solomon Islands,92.2,Fiscal Health
+1071,Somalia,,Fiscal Health
+1072,South Africa,53.4,Fiscal Health
+1073,Spain,69.8,Fiscal Health
+1074,Sri Lanka,30.1,Fiscal Health
+1075,Sudan,0.0,Fiscal Health
+1076,Suriname,7.8,Fiscal Health
+1077,Sweden,97.6,Fiscal Health
+1078,Switzerland,96.9,Fiscal Health
+1079,Syria,,Fiscal Health
+1080,Taiwan ,93.7,Fiscal Health
+1081,Tajikistan,75.1,Fiscal Health
+1082,Tanzania,90.8,Fiscal Health
+1083,Thailand,96.4,Fiscal Health
+1084,Timor-Leste,20.0,Fiscal Health
+1085,Togo,89.9,Fiscal Health
+1086,Tonga,95.4,Fiscal Health
+1087,Trinidad and Tobago,15.8,Fiscal Health
+1088,Tunisia,53.0,Fiscal Health
+1089,Turkey,75.8,Fiscal Health
+1090,Turkmenistan,96.3,Fiscal Health
+1091,Uganda,63.2,Fiscal Health
+1092,Ukraine,87.7,Fiscal Health
+1093,United Arab Emirates,98.5,Fiscal Health
+1094,United Kingdom,77.3,Fiscal Health
+1095,United States,34.9,Fiscal Health
+1096,Uruguay,80.5,Fiscal Health
+1097,Uzbekistan,98.3,Fiscal Health
+1098,Vanuatu,94.9,Fiscal Health
+1099,Venezuela,0.0,Fiscal Health
+1100,Vietnam,82.8,Fiscal Health
+1101,Yemen,48.9,Fiscal Health
+1102,Zambia,5.3,Fiscal Health
+1103,Zimbabwe,58.8,Fiscal Health
+1104,Afghanistan,53.9,Business Freedom
+1105,Albania,66.1,Business Freedom
+1106,Algeria,63.5,Business Freedom
+1107,Angola,56.9,Business Freedom
+1108,Argentina,59.5,Business Freedom
+1109,Armenia,81.9,Business Freedom
+1110,Australia,87.4,Business Freedom
+1111,Austria,72.6,Business Freedom
+1112,Azerbaijan,80.5,Business Freedom
+1113,Bahamas,70.4,Business Freedom
+1114,Bahrain,76.7,Business Freedom
+1115,Bangladesh,55.6,Business Freedom
+1116,Barbados,69.7,Business Freedom
+1117,Belarus,75.9,Business Freedom
+1118,Belgium,80.1,Business Freedom
+1119,Belize,60.0,Business Freedom
+1120,Benin,54.6,Business Freedom
+1121,Bhutan,67.3,Business Freedom
+1122,Bolivia,58.4,Business Freedom
+1123,Bosnia and Herzegovina,48.2,Business Freedom
+1124,Botswana,68.4,Business Freedom
+1125,Brazil,58.0,Business Freedom
+1126,Brunei Darussalam,83.6,Business Freedom
+1127,Bulgaria,62.9,Business Freedom
+1128,Burkina Faso,44.8,Business Freedom
+1129,Burma,60.0,Business Freedom
+1130,Burundi,51.8,Business Freedom
+1131,Cambodia,30.9,Business Freedom
+1132,Cameroon,43.9,Business Freedom
+1133,Canada,81.4,Business Freedom
+1134,Cabo Verde,60.6,Business Freedom
+1135,Central African Republic,23.3,Business Freedom
+1136,Chad,25.3,Business Freedom
+1137,Chile,75.1,Business Freedom
+1138,China,80.2,Business Freedom
+1139,Colombia,71.0,Business Freedom
+1140,Comoros,48.5,Business Freedom
+1141,"Congo, Democratic Republic of the Congo",53.1,Business Freedom
+1142,"Congo, Republic of",36.6,Business Freedom
+1143,Costa Rica,66.2,Business Freedom
+1144,Côte d'Ivoire,60.8,Business Freedom
+1145,Croatia,56.2,Business Freedom
+1146,Cuba,20.0,Business Freedom
+1147,Cyprus,76.1,Business Freedom
+1148,Czech Republic,68.8,Business Freedom
+1149,Denmark,88.8,Business Freedom
+1150,Djibouti,63.3,Business Freedom
+1151,Dominica,68.4,Business Freedom
+1152,Dominican Republic,56.4,Business Freedom
+1153,Ecuador,50.4,Business Freedom
+1154,Egypt,62.7,Business Freedom
+1155,El Salvador,52.4,Business Freedom
+1156,Equatorial Guinea,36.4,Business Freedom
+1157,Eritrea,17.3,Business Freedom
+1158,Estonia,72.7,Business Freedom
+1159,Eswatini,61.5,Business Freedom
+1160,Ethiopia,47.5,Business Freedom
+1161,Fiji,61.3,Business Freedom
+1162,Finland,85.8,Business Freedom
+1163,France,80.2,Business Freedom
+1164,Gabon,54.7,Business Freedom
+1165,Gambia,56.0,Business Freedom
+1166,Georgia,84.9,Business Freedom
+1167,Germany,82.4,Business Freedom
+1168,Ghana,62.9,Business Freedom
+1169,Greece,75.8,Business Freedom
+1170,Guatemala,61.5,Business Freedom
+1171,Guinea,47.1,Business Freedom
+1172,Guinea-Bissau,37.9,Business Freedom
+1173,Guyana,58.2,Business Freedom
+1174,Haiti,33.0,Business Freedom
+1175,Honduras,48.7,Business Freedom
+1176,Hungary,59.9,Business Freedom
+1177,Iceland,83.6,Business Freedom
+1178,India,76.7,Business Freedom
+1179,Indonesia,71.3,Business Freedom
+1180,Iran,57.1,Business Freedom
+1181,Iraq,51.7,Business Freedom
+1182,Ireland,81.5,Business Freedom
+1183,Israel,73.9,Business Freedom
+1184,Italy,68.1,Business Freedom
+1185,Jamaica,77.6,Business Freedom
+1186,Japan,85.9,Business Freedom
+1187,Jordan,58.9,Business Freedom
+1188,Kazakhstan,76.2,Business Freedom
+1189,Kenya,56.7,Business Freedom
+1190,Kiribati,32.0,Business Freedom
+1191,"Korea, North ",5.0,Business Freedom
+1192,"Korea, South",89.5,Business Freedom
+1193,Kosovo,71.2,Business Freedom
+1194,Kuwait,66.0,Business Freedom
+1195,Kyrgyz Republic,72.6,Business Freedom
+1196,Laos,54.7,Business Freedom
+1197,Latvia,76.5,Business Freedom
+1198,Lebanon,44.3,Business Freedom
+1199,Lesotho,55.3,Business Freedom
+1200,Liberia,48.9,Business Freedom
+1201,Libya,38.4,Business Freedom
+1202,Liechtenstein,,Business Freedom
+1203,Lithuania,73.1,Business Freedom
+1204,Luxembourg,66.1,Business Freedom
+1205,North Macedonia,77.8,Business Freedom
+1206,Madagascar,46.5,Business Freedom
+1207,Malawi,42.1,Business Freedom
+1208,Malaysia,86.7,Business Freedom
+1209,Maldives,77.9,Business Freedom
+1210,Mali,46.5,Business Freedom
+1211,Malta,67.6,Business Freedom
+1212,Mauritania,59.1,Business Freedom
+1213,Mauritius,83.7,Business Freedom
+1214,Mexico,65.6,Business Freedom
+1215,Micronesia,56.2,Business Freedom
+1216,Moldova,66.2,Business Freedom
+1217,Mongolia,61.9,Business Freedom
+1218,Montenegro,73.5,Business Freedom
+1219,Morocco,72.3,Business Freedom
+1220,Mozambique,55.2,Business Freedom
+1221,Namibia,65.6,Business Freedom
+1222,Nepal,61.5,Business Freedom
+1223,Netherlands,80.5,Business Freedom
+1224,New Zealand,89.9,Business Freedom
+1225,Nicaragua,53.1,Business Freedom
+1226,Niger,52.5,Business Freedom
+1227,Nigeria,60.0,Business Freedom
+1228,Norway,85.5,Business Freedom
+1229,Oman,79.2,Business Freedom
+1230,Pakistan,60.5,Business Freedom
+1231,Panama,72.9,Business Freedom
+1232,Papua New Guinea,57.4,Business Freedom
+1233,Paraguay,59.6,Business Freedom
+1234,Peru,66.2,Business Freedom
+1235,Philippines,58.2,Business Freedom
+1236,Poland,61.6,Business Freedom
+1237,Portugal,75.9,Business Freedom
+1238,Qatar,74.0,Business Freedom
+1239,Romania,59.7,Business Freedom
+1240,Russia,84.1,Business Freedom
+1241,Rwanda,62.3,Business Freedom
+1242,Saint Lucia,75.7,Business Freedom
+1243,Saint Vincent and the Grenadines,74.2,Business Freedom
+1244,Samoa,75.5,Business Freedom
+1245,São Tomé and Príncipe,62.8,Business Freedom
+1246,Saudi Arabia,83.5,Business Freedom
+1247,Senegal,53.5,Business Freedom
+1248,Serbia,71.0,Business Freedom
+1249,Seychelles,67.5,Business Freedom
+1250,Sierra Leone,49.6,Business Freedom
+1251,Singapore,93.8,Business Freedom
+1252,Slovakia,55.6,Business Freedom
+1253,Slovenia,78.8,Business Freedom
+1254,Solomon Islands,58.9,Business Freedom
+1255,Somalia,31.2,Business Freedom
+1256,South Africa,61.5,Business Freedom
+1257,Spain,66.3,Business Freedom
+1258,Sri Lanka,75.2,Business Freedom
+1259,Sudan,50.8,Business Freedom
+1260,Suriname,45.8,Business Freedom
+1261,Sweden,83.2,Business Freedom
+1262,Switzerland,73.6,Business Freedom
+1263,Syria,49.7,Business Freedom
+1264,Taiwan ,93.4,Business Freedom
+1265,Tajikistan,62.3,Business Freedom
+1266,Tanzania,45.7,Business Freedom
+1267,Thailand,85.3,Business Freedom
+1268,Timor-Leste,62.2,Business Freedom
+1269,Togo,60.6,Business Freedom
+1270,Tonga,70.0,Business Freedom
+1271,Trinidad and Tobago,66.5,Business Freedom
+1272,Tunisia,80.7,Business Freedom
+1273,Turkey,68.5,Business Freedom
+1274,Turkmenistan,30.0,Business Freedom
+1275,Uganda,44.9,Business Freedom
+1276,Ukraine,63.5,Business Freedom
+1277,United Arab Emirates,80.0,Business Freedom
+1278,United Kingdom,94.4,Business Freedom
+1279,United States,82.5,Business Freedom
+1280,Uruguay,72.3,Business Freedom
+1281,Uzbekistan,73.5,Business Freedom
+1282,Vanuatu,49.4,Business Freedom
+1283,Venezuela,33.4,Business Freedom
+1284,Vietnam,65.2,Business Freedom
+1285,Yemen,46.1,Business Freedom
+1286,Zambia,66.1,Business Freedom
+1287,Zimbabwe,41.5,Business Freedom
+1288,Afghanistan,59.9,Labor Freedom
+1289,Albania,51.6,Labor Freedom
+1290,Algeria,51.3,Labor Freedom
+1291,Angola,59.6,Labor Freedom
+1292,Argentina,46.3,Labor Freedom
+1293,Armenia,74.5,Labor Freedom
+1294,Australia,84.1,Labor Freedom
+1295,Austria,68.4,Labor Freedom
+1296,Azerbaijan,65.9,Labor Freedom
+1297,Bahamas,70.0,Labor Freedom
+1298,Bahrain,71.4,Labor Freedom
+1299,Bangladesh,68.8,Labor Freedom
+1300,Barbados,60.1,Labor Freedom
+1301,Belarus,75.7,Labor Freedom
+1302,Belgium,61.1,Labor Freedom
+1303,Belize,54.2,Labor Freedom
+1304,Benin,58.5,Labor Freedom
+1305,Bhutan,79.6,Labor Freedom
+1306,Bolivia,53.4,Labor Freedom
+1307,Bosnia and Herzegovina,67.8,Labor Freedom
+1308,Botswana,68.2,Labor Freedom
+1309,Brazil,50.7,Labor Freedom
+1310,Brunei Darussalam,90.9,Labor Freedom
+1311,Bulgaria,68.5,Labor Freedom
+1312,Burkina Faso,52.2,Labor Freedom
+1313,Burma,64.3,Labor Freedom
+1314,Burundi,67.3,Labor Freedom
+1315,Cambodia,62.6,Labor Freedom
+1316,Cameroon,49.9,Labor Freedom
+1317,Canada,72.4,Labor Freedom
+1318,Cabo Verde,55.2,Labor Freedom
+1319,Central African Republic,40.9,Labor Freedom
+1320,Chad,42.9,Labor Freedom
+1321,Chile,62.5,Labor Freedom
+1322,China,64.9,Labor Freedom
+1323,Colombia,77.7,Labor Freedom
+1324,Comoros,60.4,Labor Freedom
+1325,"Congo, Democratic Republic of the Congo",40.2,Labor Freedom
+1326,"Congo, Republic of",36.6,Labor Freedom
+1327,Costa Rica,55.5,Labor Freedom
+1328,Côte d'Ivoire,48.9,Labor Freedom
+1329,Croatia,43.6,Labor Freedom
+1330,Cuba,20.0,Labor Freedom
+1331,Cyprus,60.5,Labor Freedom
+1332,Czech Republic,77.1,Labor Freedom
+1333,Denmark,73.8,Labor Freedom
+1334,Djibouti,49.4,Labor Freedom
+1335,Dominica,67.0,Labor Freedom
+1336,Dominican Republic,58.7,Labor Freedom
+1337,Ecuador,47.9,Labor Freedom
+1338,Egypt,51.4,Labor Freedom
+1339,El Salvador,52.2,Labor Freedom
+1340,Equatorial Guinea,34.4,Labor Freedom
+1341,Eritrea,69.6,Labor Freedom
+1342,Estonia,57.8,Labor Freedom
+1343,Eswatini,69.5,Labor Freedom
+1344,Ethiopia,57.4,Labor Freedom
+1345,Fiji,77.2,Labor Freedom
+1346,Finland,50.5,Labor Freedom
+1347,France,44.8,Labor Freedom
+1348,Gabon,52.9,Labor Freedom
+1349,Gambia,67.4,Labor Freedom
+1350,Georgia,76.7,Labor Freedom
+1351,Germany,53.0,Labor Freedom
+1352,Ghana,60.9,Labor Freedom
+1353,Greece,49.8,Labor Freedom
+1354,Guatemala,48.5,Labor Freedom
+1355,Guinea,58.6,Labor Freedom
+1356,Guinea-Bissau,61.0,Labor Freedom
+1357,Guyana,62.1,Labor Freedom
+1358,Haiti,62.1,Labor Freedom
+1359,Honduras,32.0,Labor Freedom
+1360,Hungary,64.8,Labor Freedom
+1361,Iceland,62.0,Labor Freedom
+1362,India,41.3,Labor Freedom
+1363,Indonesia,49.2,Labor Freedom
+1364,Iran,50.1,Labor Freedom
+1365,Iraq,45.6,Labor Freedom
+1366,Ireland,76.1,Labor Freedom
+1367,Israel,65.1,Labor Freedom
+1368,Italy,50.5,Labor Freedom
+1369,Jamaica,73.4,Labor Freedom
+1370,Japan,79.0,Labor Freedom
+1371,Jordan,52.8,Labor Freedom
+1372,Kazakhstan,86.2,Labor Freedom
+1373,Kenya,57.1,Labor Freedom
+1374,Kiribati,63.9,Labor Freedom
+1375,"Korea, North ",5.0,Labor Freedom
+1376,"Korea, South",55.8,Labor Freedom
+1377,Kosovo,64.4,Labor Freedom
+1378,Kuwait,62.2,Labor Freedom
+1379,Kyrgyz Republic,79.5,Labor Freedom
+1380,Laos,59.1,Labor Freedom
+1381,Latvia,73.8,Labor Freedom
+1382,Lebanon,47.4,Labor Freedom
+1383,Lesotho,58.8,Labor Freedom
+1384,Liberia,41.4,Labor Freedom
+1385,Libya,55.3,Labor Freedom
+1386,Liechtenstein,,Labor Freedom
+1387,Lithuania,74.4,Labor Freedom
+1388,Luxembourg,45.9,Labor Freedom
+1389,North Macedonia,65.2,Labor Freedom
+1390,Madagascar,44.7,Labor Freedom
+1391,Malawi,63.6,Labor Freedom
+1392,Malaysia,73.9,Labor Freedom
+1393,Maldives,71.2,Labor Freedom
+1394,Mali,53.5,Labor Freedom
+1395,Malta,61.8,Labor Freedom
+1396,Mauritania,52.8,Labor Freedom
+1397,Mauritius,74.6,Labor Freedom
+1398,Mexico,58.2,Labor Freedom
+1399,Micronesia,74.4,Labor Freedom
+1400,Moldova,39.2,Labor Freedom
+1401,Mongolia,74.4,Labor Freedom
+1402,Montenegro,78.0,Labor Freedom
+1403,Morocco,33.2,Labor Freedom
+1404,Mozambique,42.0,Labor Freedom
+1405,Namibia,85.2,Labor Freedom
+1406,Nepal,53.6,Labor Freedom
+1407,Netherlands,60.1,Labor Freedom
+1408,New Zealand,86.3,Labor Freedom
+1409,Nicaragua,55.0,Labor Freedom
+1410,Niger,47.4,Labor Freedom
+1411,Nigeria,84.4,Labor Freedom
+1412,Norway,57.8,Labor Freedom
+1413,Oman,61.0,Labor Freedom
+1414,Pakistan,41.2,Labor Freedom
+1415,Panama,43.7,Labor Freedom
+1416,Papua New Guinea,70.2,Labor Freedom
+1417,Paraguay,31.8,Labor Freedom
+1418,Peru,63.2,Labor Freedom
+1419,Philippines,57.7,Labor Freedom
+1420,Poland,66.1,Labor Freedom
+1421,Portugal,44.1,Labor Freedom
+1422,Qatar,65.9,Labor Freedom
+1423,Romania,63.6,Labor Freedom
+1424,Russia,55.4,Labor Freedom
+1425,Rwanda,77.4,Labor Freedom
+1426,Saint Lucia,66.5,Labor Freedom
+1427,Saint Vincent and the Grenadines,74.0,Labor Freedom
+1428,Samoa,80.8,Labor Freedom
+1429,São Tomé and Príncipe,43.2,Labor Freedom
+1430,Saudi Arabia,63.3,Labor Freedom
+1431,Senegal,36.6,Labor Freedom
+1432,Serbia,67.3,Labor Freedom
+1433,Seychelles,71.3,Labor Freedom
+1434,Sierra Leone,30.1,Labor Freedom
+1435,Singapore,91.5,Labor Freedom
+1436,Slovakia,52.2,Labor Freedom
+1437,Slovenia,61.5,Labor Freedom
+1438,Solomon Islands,73.8,Labor Freedom
+1439,Somalia,,Labor Freedom
+1440,South Africa,59.4,Labor Freedom
+1441,Spain,57.9,Labor Freedom
+1442,Sri Lanka,59.1,Labor Freedom
+1443,Sudan,60.4,Labor Freedom
+1444,Suriname,61.9,Labor Freedom
+1445,Sweden,53.9,Labor Freedom
+1446,Switzerland,72.5,Labor Freedom
+1447,Syria,57.8,Labor Freedom
+1448,Taiwan ,60.4,Labor Freedom
+1449,Tajikistan,46.2,Labor Freedom
+1450,Tanzania,67.7,Labor Freedom
+1451,Thailand,64.3,Labor Freedom
+1452,Timor-Leste,53.4,Labor Freedom
+1453,Togo,47.1,Labor Freedom
+1454,Tonga,69.9,Labor Freedom
+1455,Trinidad and Tobago,76.8,Labor Freedom
+1456,Tunisia,49.7,Labor Freedom
+1457,Turkey,48.8,Labor Freedom
+1458,Turkmenistan,20.0,Labor Freedom
+1459,Uganda,83.2,Labor Freedom
+1460,Ukraine,48.7,Labor Freedom
+1461,United Arab Emirates,81.6,Labor Freedom
+1462,United Kingdom,73.2,Labor Freedom
+1463,United States,87.1,Labor Freedom
+1464,Uruguay,70.5,Labor Freedom
+1465,Uzbekistan,61.2,Labor Freedom
+1466,Vanuatu,54.5,Labor Freedom
+1467,Venezuela,27.5,Labor Freedom
+1468,Vietnam,62.6,Labor Freedom
+1469,Yemen,57.7,Labor Freedom
+1470,Zambia,45.6,Labor Freedom
+1471,Zimbabwe,44.1,Labor Freedom
+1472,Afghanistan,80.8,Monetary Freedom
+1473,Albania,82.0,Monetary Freedom
+1474,Algeria,84.3,Monetary Freedom
+1475,Angola,67.5,Monetary Freedom
+1476,Argentina,41.9,Monetary Freedom
+1477,Armenia,76.9,Monetary Freedom
+1478,Australia,86.7,Monetary Freedom
+1479,Austria,81.7,Monetary Freedom
+1480,Azerbaijan,73.2,Monetary Freedom
+1481,Bahamas,77.0,Monetary Freedom
+1482,Bahrain,82.8,Monetary Freedom
+1483,Bangladesh,69.9,Monetary Freedom
+1484,Barbados,77.3,Monetary Freedom
+1485,Belarus,70.2,Monetary Freedom
+1486,Belgium,82.0,Monetary Freedom
+1487,Belize,80.2,Monetary Freedom
+1488,Benin,83.7,Monetary Freedom
+1489,Bhutan,74.3,Monetary Freedom
+1490,Bolivia,71.0,Monetary Freedom
+1491,Bosnia and Herzegovina,84.1,Monetary Freedom
+1492,Botswana,74.1,Monetary Freedom
+1493,Brazil,77.8,Monetary Freedom
+1494,Brunei Darussalam,74.7,Monetary Freedom
+1495,Bulgaria,85.2,Monetary Freedom
+1496,Burkina Faso,74.7,Monetary Freedom
+1497,Burma,72.5,Monetary Freedom
+1498,Burundi,74.7,Monetary Freedom
+1499,Cambodia,75.1,Monetary Freedom
+1500,Cameroon,81.2,Monetary Freedom
+1501,Canada,76.1,Monetary Freedom
+1502,Cabo Verde,83.3,Monetary Freedom
+1503,Central African Republic,74.9,Monetary Freedom
+1504,Chad,76.7,Monetary Freedom
+1505,Chile,85.5,Monetary Freedom
+1506,China,69.8,Monetary Freedom
+1507,Colombia,78.1,Monetary Freedom
+1508,Comoros,79.7,Monetary Freedom
+1509,"Congo, Democratic Republic of the Congo",61.7,Monetary Freedom
+1510,"Congo, Republic of",86.5,Monetary Freedom
+1511,Costa Rica,80.9,Monetary Freedom
+1512,Côte d'Ivoire,74.7,Monetary Freedom
+1513,Croatia,78.7,Monetary Freedom
+1514,Cuba,64.6,Monetary Freedom
+1515,Cyprus,85.0,Monetary Freedom
+1516,Czech Republic,79.7,Monetary Freedom
+1517,Denmark,84.5,Monetary Freedom
+1518,Djibouti,70.4,Monetary Freedom
+1519,Dominica,82.4,Monetary Freedom
+1520,Dominican Republic,75.3,Monetary Freedom
+1521,Ecuador,81.7,Monetary Freedom
+1522,Egypt,64.3,Monetary Freedom
+1523,El Salvador,81.0,Monetary Freedom
+1524,Equatorial Guinea,79.4,Monetary Freedom
+1525,Eritrea,55.0,Monetary Freedom
+1526,Estonia,79.7,Monetary Freedom
+1527,Eswatini,78.2,Monetary Freedom
+1528,Ethiopia,60.6,Monetary Freedom
+1529,Fiji,74.9,Monetary Freedom
+1530,Finland,83.3,Monetary Freedom
+1531,France,77.3,Monetary Freedom
+1532,Gabon,84.5,Monetary Freedom
+1533,Gambia,63.2,Monetary Freedom
+1534,Georgia,76.7,Monetary Freedom
+1535,Germany,77.2,Monetary Freedom
+1536,Ghana,71.7,Monetary Freedom
+1537,Greece,80.0,Monetary Freedom
+1538,Guatemala,77.7,Monetary Freedom
+1539,Guinea,70.5,Monetary Freedom
+1540,Guinea-Bissau,86.7,Monetary Freedom
+1541,Guyana,81.3,Monetary Freedom
+1542,Haiti,59.7,Monetary Freedom
+1543,Honduras,71.8,Monetary Freedom
+1544,Hungary,78.8,Monetary Freedom
+1545,Iceland,79.4,Monetary Freedom
+1546,India,72.1,Monetary Freedom
+1547,Indonesia,79.0,Monetary Freedom
+1548,Iran,42.1,Monetary Freedom
+1549,Iraq,77.0,Monetary Freedom
+1550,Ireland,84.4,Monetary Freedom
+1551,Israel,84.4,Monetary Freedom
+1552,Italy,84.2,Monetary Freedom
+1553,Jamaica,77.5,Monetary Freedom
+1554,Japan,85.1,Monetary Freedom
+1555,Jordan,82.0,Monetary Freedom
+1556,Kazakhstan,70.0,Monetary Freedom
+1557,Kenya,75.4,Monetary Freedom
+1558,Kiribati,82.5,Monetary Freedom
+1559,"Korea, North ",0.0,Monetary Freedom
+1560,"Korea, South",84.4,Monetary Freedom
+1561,Kosovo,75.7,Monetary Freedom
+1562,Kuwait,73.6,Monetary Freedom
+1563,Kyrgyz Republic,77.5,Monetary Freedom
+1564,Laos,74.5,Monetary Freedom
+1565,Latvia,79.6,Monetary Freedom
+1566,Lebanon,78.3,Monetary Freedom
+1567,Lesotho,75.8,Monetary Freedom
+1568,Liberia,58.5,Monetary Freedom
+1569,Libya,69.7,Monetary Freedom
+1570,Liechtenstein,,Monetary Freedom
+1571,Lithuania,80.1,Monetary Freedom
+1572,Luxembourg,76.5,Monetary Freedom
+1573,North Macedonia,78.7,Monetary Freedom
+1574,Madagascar,73.7,Monetary Freedom
+1575,Malawi,70.5,Monetary Freedom
+1576,Malaysia,83.6,Monetary Freedom
+1577,Maldives,77.5,Monetary Freedom
+1578,Mali,83.7,Monetary Freedom
+1579,Malta,77.1,Monetary Freedom
+1580,Mauritania,80.0,Monetary Freedom
+1581,Mauritius,77.4,Monetary Freedom
+1582,Mexico,72.1,Monetary Freedom
+1583,Micronesia,82.1,Monetary Freedom
+1584,Moldova,71.5,Monetary Freedom
+1585,Mongolia,73.4,Monetary Freedom
+1586,Montenegro,83.4,Monetary Freedom
+1587,Morocco,80.3,Monetary Freedom
+1588,Mozambique,77.1,Monetary Freedom
+1589,Namibia,77.2,Monetary Freedom
+1590,Nepal,71.6,Monetary Freedom
+1591,Netherlands,80.4,Monetary Freedom
+1592,New Zealand,86.9,Monetary Freedom
+1593,Nicaragua,70.7,Monetary Freedom
+1594,Niger,75.3,Monetary Freedom
+1595,Nigeria,68.0,Monetary Freedom
+1596,Norway,75.4,Monetary Freedom
+1597,Oman,85.8,Monetary Freedom
+1598,Pakistan,69.7,Monetary Freedom
+1599,Panama,80.5,Monetary Freedom
+1600,Papua New Guinea,72.1,Monetary Freedom
+1601,Paraguay,73.8,Monetary Freedom
+1602,Peru,86.1,Monetary Freedom
+1603,Philippines,68.7,Monetary Freedom
+1604,Poland,80.8,Monetary Freedom
+1605,Portugal,85.0,Monetary Freedom
+1606,Qatar,80.7,Monetary Freedom
+1607,Romania,77.7,Monetary Freedom
+1608,Russia,67.3,Monetary Freedom
+1609,Rwanda,80.2,Monetary Freedom
+1610,Saint Lucia,83.5,Monetary Freedom
+1611,Saint Vincent and the Grenadines,82.6,Monetary Freedom
+1612,Samoa,80.0,Monetary Freedom
+1613,São Tomé and Príncipe,67.0,Monetary Freedom
+1614,Saudi Arabia,82.3,Monetary Freedom
+1615,Senegal,79.0,Monetary Freedom
+1616,Serbia,81.1,Monetary Freedom
+1617,Seychelles,80.3,Monetary Freedom
+1618,Sierra Leone,65.1,Monetary Freedom
+1619,Singapore,85.4,Monetary Freedom
+1620,Slovakia,74.8,Monetary Freedom
+1621,Slovenia,81.9,Monetary Freedom
+1622,Solomon Islands,80.6,Monetary Freedom
+1623,Somalia,,Monetary Freedom
+1624,South Africa,76.8,Monetary Freedom
+1625,Spain,83.5,Monetary Freedom
+1626,Sri Lanka,71.6,Monetary Freedom
+1627,Sudan,39.2,Monetary Freedom
+1628,Suriname,73.7,Monetary Freedom
+1629,Sweden,81.5,Monetary Freedom
+1630,Switzerland,85.4,Monetary Freedom
+1631,Syria,60.6,Monetary Freedom
+1632,Taiwan ,84.3,Monetary Freedom
+1633,Tajikistan,68.5,Monetary Freedom
+1634,Tanzania,72.9,Monetary Freedom
+1635,Thailand,74.4,Monetary Freedom
+1636,Timor-Leste,79.7,Monetary Freedom
+1637,Togo,79.7,Monetary Freedom
+1638,Tonga,66.4,Monetary Freedom
+1639,Trinidad and Tobago,83.4,Monetary Freedom
+1640,Tunisia,73.6,Monetary Freedom
+1641,Turkey,65.4,Monetary Freedom
+1642,Turkmenistan,72.8,Monetary Freedom
+1643,Uganda,78.9,Monetary Freedom
+1644,Ukraine,65.8,Monetary Freedom
+1645,United Arab Emirates,80.6,Monetary Freedom
+1646,United Kingdom,81.0,Monetary Freedom
+1647,United States,81.1,Monetary Freedom
+1648,Uruguay,72.5,Monetary Freedom
+1649,Uzbekistan,60.3,Monetary Freedom
+1650,Vanuatu,75.5,Monetary Freedom
+1651,Venezuela,0.0,Monetary Freedom
+1652,Vietnam,69.0,Monetary Freedom
+1653,Yemen,54.6,Monetary Freedom
+1654,Zambia,71.2,Monetary Freedom
+1655,Zimbabwe,0.0,Monetary Freedom
+1656,Afghanistan,68.6,Trade Freedom
+1657,Albania,82.8,Trade Freedom
+1658,Algeria,57.4,Trade Freedom
+1659,Angola,70.2,Trade Freedom
+1660,Argentina,62.6,Trade Freedom
+1661,Armenia,73.8,Trade Freedom
+1662,Australia,89.8,Trade Freedom
+1663,Austria,84.0,Trade Freedom
+1664,Azerbaijan,68.0,Trade Freedom
+1665,Bahamas,49.0,Trade Freedom
+1666,Bahrain,83.6,Trade Freedom
+1667,Bangladesh,63.4,Trade Freedom
+1668,Barbados,58.4,Trade Freedom
+1669,Belarus,76.0,Trade Freedom
+1670,Belgium,84.0,Trade Freedom
+1671,Belize,55.0,Trade Freedom
+1672,Benin,60.4,Trade Freedom
+1673,Bhutan,40.8,Trade Freedom
+1674,Bolivia,61.6,Trade Freedom
+1675,Bosnia and Herzegovina,69.2,Trade Freedom
+1676,Botswana,77.4,Trade Freedom
+1677,Brazil,64.6,Trade Freedom
+1678,Brunei Darussalam,84.6,Trade Freedom
+1679,Bulgaria,84.0,Trade Freedom
+1680,Burkina Faso,61.0,Trade Freedom
+1681,Burma,70.0,Trade Freedom
+1682,Burundi,49.8,Trade Freedom
+1683,Cambodia,66.6,Trade Freedom
+1684,Cameroon,55.2,Trade Freedom
+1685,Canada,88.8,Trade Freedom
+1686,Cabo Verde,68.0,Trade Freedom
+1687,Central African Republic,45.2,Trade Freedom
+1688,Chad,52.0,Trade Freedom
+1689,Chile,83.0,Trade Freedom
+1690,China,71.2,Trade Freedom
+1691,Colombia,77.0,Trade Freedom
+1692,Comoros,66.2,Trade Freedom
+1693,"Congo, Democratic Republic of the Congo",63.2,Trade Freedom
+1694,"Congo, Republic of",56.4,Trade Freedom
+1695,Costa Rica,75.0,Trade Freedom
+1696,Côte d'Ivoire,73.8,Trade Freedom
+1697,Croatia,84.0,Trade Freedom
+1698,Cuba,64.2,Trade Freedom
+1699,Cyprus,84.0,Trade Freedom
+1700,Czech Republic,84.0,Trade Freedom
+1701,Denmark,84.0,Trade Freedom
+1702,Djibouti,43.2,Trade Freedom
+1703,Dominica,55.6,Trade Freedom
+1704,Dominican Republic,69.4,Trade Freedom
+1705,Ecuador,59.8,Trade Freedom
+1706,Egypt,67.0,Trade Freedom
+1707,El Salvador,70.8,Trade Freedom
+1708,Equatorial Guinea,48.8,Trade Freedom
+1709,Eritrea,69.2,Trade Freedom
+1710,Estonia,84.0,Trade Freedom
+1711,Eswatini,71.4,Trade Freedom
+1712,Ethiopia,61.4,Trade Freedom
+1713,Fiji,55.0,Trade Freedom
+1714,Finland,84.0,Trade Freedom
+1715,France,84.0,Trade Freedom
+1716,Gabon,56.8,Trade Freedom
+1717,Gambia,66.6,Trade Freedom
+1718,Georgia,86.0,Trade Freedom
+1719,Germany,84.0,Trade Freedom
+1720,Ghana,62.4,Trade Freedom
+1721,Greece,84.0,Trade Freedom
+1722,Guatemala,75.6,Trade Freedom
+1723,Guinea,66.4,Trade Freedom
+1724,Guinea-Bissau,55.8,Trade Freedom
+1725,Guyana,66.8,Trade Freedom
+1726,Haiti,65.4,Trade Freedom
+1727,Honduras,71.8,Trade Freedom
+1728,Hungary,84.0,Trade Freedom
+1729,Iceland,86.8,Trade Freedom
+1730,India,69.4,Trade Freedom
+1731,Indonesia,79.2,Trade Freedom
+1732,Iran,54.2,Trade Freedom
+1733,Iraq,,Trade Freedom
+1734,Ireland,84.0,Trade Freedom
+1735,Israel,84.2,Trade Freedom
+1736,Italy,84.0,Trade Freedom
+1737,Jamaica,69.2,Trade Freedom
+1738,Japan,80.4,Trade Freedom
+1739,Jordan,71.0,Trade Freedom
+1740,Kazakhstan,74.6,Trade Freedom
+1741,Kenya,62.2,Trade Freedom
+1742,Kiribati,23.8,Trade Freedom
+1743,"Korea, North ",0.0,Trade Freedom
+1744,"Korea, South",79.0,Trade Freedom
+1745,Kosovo,77.2,Trade Freedom
+1746,Kuwait,75.8,Trade Freedom
+1747,Kyrgyz Republic,72.8,Trade Freedom
+1748,Laos,67.8,Trade Freedom
+1749,Latvia,84.0,Trade Freedom
+1750,Lebanon,74.4,Trade Freedom
+1751,Lesotho,62.2,Trade Freedom
+1752,Liberia,60.8,Trade Freedom
+1753,Libya,,Trade Freedom
+1754,Liechtenstein,,Trade Freedom
+1755,Lithuania,84.0,Trade Freedom
+1756,Luxembourg,84.0,Trade Freedom
+1757,North Macedonia,77.4,Trade Freedom
+1758,Madagascar,65.4,Trade Freedom
+1759,Malawi,68.2,Trade Freedom
+1760,Malaysia,82.4,Trade Freedom
+1761,Maldives,59.8,Trade Freedom
+1762,Mali,64.0,Trade Freedom
+1763,Malta,84.0,Trade Freedom
+1764,Mauritania,63.8,Trade Freedom
+1765,Mauritius,88.0,Trade Freedom
+1766,Mexico,81.6,Trade Freedom
+1767,Micronesia,74.8,Trade Freedom
+1768,Moldova,76.8,Trade Freedom
+1769,Mongolia,74.6,Trade Freedom
+1770,Montenegro,79.4,Trade Freedom
+1771,Morocco,70.6,Trade Freedom
+1772,Mozambique,70.8,Trade Freedom
+1773,Namibia,71.2,Trade Freedom
+1774,Nepal,57.6,Trade Freedom
+1775,Netherlands,84.0,Trade Freedom
+1776,New Zealand,90.2,Trade Freedom
+1777,Nicaragua,68.4,Trade Freedom
+1778,Niger,61.0,Trade Freedom
+1779,Nigeria,68.4,Trade Freedom
+1780,Norway,84.0,Trade Freedom
+1781,Oman,73.6,Trade Freedom
+1782,Pakistan,64.6,Trade Freedom
+1783,Panama,77.2,Trade Freedom
+1784,Papua New Guinea,80.4,Trade Freedom
+1785,Paraguay,76.4,Trade Freedom
+1786,Peru,86.4,Trade Freedom
+1787,Philippines,74.2,Trade Freedom
+1788,Poland,84.0,Trade Freedom
+1789,Portugal,84.0,Trade Freedom
+1790,Qatar,81.4,Trade Freedom
+1791,Romania,84.0,Trade Freedom
+1792,Russia,74.0,Trade Freedom
+1793,Rwanda,61.2,Trade Freedom
+1794,Saint Lucia,60.6,Trade Freedom
+1795,Saint Vincent and the Grenadines,57.8,Trade Freedom
+1796,Samoa,66.4,Trade Freedom
+1797,São Tomé and Príncipe,65.2,Trade Freedom
+1798,Saudi Arabia,75.8,Trade Freedom
+1799,Senegal,66.4,Trade Freedom
+1800,Serbia,77.2,Trade Freedom
+1801,Seychelles,79.0,Trade Freedom
+1802,Sierra Leone,64.6,Trade Freedom
+1803,Singapore,95.0,Trade Freedom
+1804,Slovakia,84.0,Trade Freedom
+1805,Slovenia,84.0,Trade Freedom
+1806,Solomon Islands,68.6,Trade Freedom
+1807,Somalia,,Trade Freedom
+1808,South Africa,72.6,Trade Freedom
+1809,Spain,84.0,Trade Freedom
+1810,Sri Lanka,47.0,Trade Freedom
+1811,Sudan,45.0,Trade Freedom
+1812,Suriname,60.2,Trade Freedom
+1813,Sweden,84.0,Trade Freedom
+1814,Switzerland,86.0,Trade Freedom
+1815,Syria,47.0,Trade Freedom
+1816,Taiwan ,86.0,Trade Freedom
+1817,Tajikistan,69.6,Trade Freedom
+1818,Tanzania,64.4,Trade Freedom
+1819,Thailand,80.0,Trade Freedom
+1820,Timor-Leste,75.0,Trade Freedom
+1821,Togo,65.4,Trade Freedom
+1822,Tonga,73.4,Trade Freedom
+1823,Trinidad and Tobago,68.8,Trade Freedom
+1824,Tunisia,66.8,Trade Freedom
+1825,Turkey,76.0,Trade Freedom
+1826,Turkmenistan,74.2,Trade Freedom
+1827,Uganda,67.4,Trade Freedom
+1828,Ukraine,79.2,Trade Freedom
+1829,United Arab Emirates,81.4,Trade Freedom
+1830,United Kingdom,84.0,Trade Freedom
+1831,United States,80.4,Trade Freedom
+1832,Uruguay,70.8,Trade Freedom
+1833,Uzbekistan,55.4,Trade Freedom
+1834,Vanuatu,61.6,Trade Freedom
+1835,Venezuela,54.8,Trade Freedom
+1836,Vietnam,79.0,Trade Freedom
+1837,Yemen,67.4,Trade Freedom
+1838,Zambia,68.2,Trade Freedom
+1839,Zimbabwe,56.0,Trade Freedom
+1840,Afghanistan,10.0,Investment Freedom
+1841,Albania,70.0,Investment Freedom
+1842,Algeria,30.0,Investment Freedom
+1843,Angola,30.0,Investment Freedom
+1844,Argentina,55.0,Investment Freedom
+1845,Armenia,75.0,Investment Freedom
+1846,Australia,80.0,Investment Freedom
+1847,Austria,90.0,Investment Freedom
+1848,Azerbaijan,70.0,Investment Freedom
+1849,Bahamas,50.0,Investment Freedom
+1850,Bahrain,75.0,Investment Freedom
+1851,Bangladesh,45.0,Investment Freedom
+1852,Barbados,70.0,Investment Freedom
+1853,Belarus,30.0,Investment Freedom
+1854,Belgium,85.0,Investment Freedom
+1855,Belize,55.0,Investment Freedom
+1856,Benin,50.0,Investment Freedom
+1857,Bhutan,20.0,Investment Freedom
+1858,Bolivia,15.0,Investment Freedom
+1859,Bosnia and Herzegovina,65.0,Investment Freedom
+1860,Botswana,65.0,Investment Freedom
+1861,Brazil,60.0,Investment Freedom
+1862,Brunei Darussalam,65.0,Investment Freedom
+1863,Bulgaria,70.0,Investment Freedom
+1864,Burkina Faso,65.0,Investment Freedom
+1865,Burma,30.0,Investment Freedom
+1866,Burundi,50.0,Investment Freedom
+1867,Cambodia,50.0,Investment Freedom
+1868,Cameroon,30.0,Investment Freedom
+1869,Canada,80.0,Investment Freedom
+1870,Cabo Verde,80.0,Investment Freedom
+1871,Central African Republic,45.0,Investment Freedom
+1872,Chad,60.0,Investment Freedom
+1873,Chile,70.0,Investment Freedom
+1874,China,20.0,Investment Freedom
+1875,Colombia,80.0,Investment Freedom
+1876,Comoros,45.0,Investment Freedom
+1877,"Congo, Democratic Republic of the Congo",30.0,Investment Freedom
+1878,"Congo, Republic of",35.0,Investment Freedom
+1879,Costa Rica,70.0,Investment Freedom
+1880,Côte d'Ivoire,75.0,Investment Freedom
+1881,Croatia,75.0,Investment Freedom
+1882,Cuba,10.0,Investment Freedom
+1883,Cyprus,75.0,Investment Freedom
+1884,Czech Republic,70.0,Investment Freedom
+1885,Denmark,90.0,Investment Freedom
+1886,Djibouti,60.0,Investment Freedom
+1887,Dominica,70.0,Investment Freedom
+1888,Dominican Republic,70.0,Investment Freedom
+1889,Ecuador,35.0,Investment Freedom
+1890,Egypt,65.0,Investment Freedom
+1891,El Salvador,70.0,Investment Freedom
+1892,Equatorial Guinea,40.0,Investment Freedom
+1893,Eritrea,0.0,Investment Freedom
+1894,Estonia,90.0,Investment Freedom
+1895,Eswatini,50.0,Investment Freedom
+1896,Ethiopia,35.0,Investment Freedom
+1897,Fiji,55.0,Investment Freedom
+1898,Finland,85.0,Investment Freedom
+1899,France,75.0,Investment Freedom
+1900,Gabon,60.0,Investment Freedom
+1901,Gambia,65.0,Investment Freedom
+1902,Georgia,80.0,Investment Freedom
+1903,Germany,80.0,Investment Freedom
+1904,Ghana,70.0,Investment Freedom
+1905,Greece,55.0,Investment Freedom
+1906,Guatemala,70.0,Investment Freedom
+1907,Guinea,50.0,Investment Freedom
+1908,Guinea-Bissau,30.0,Investment Freedom
+1909,Guyana,55.0,Investment Freedom
+1910,Haiti,45.0,Investment Freedom
+1911,Honduras,65.0,Investment Freedom
+1912,Hungary,80.0,Investment Freedom
+1913,Iceland,80.0,Investment Freedom
+1914,India,40.0,Investment Freedom
+1915,Indonesia,50.0,Investment Freedom
+1916,Iran,5.0,Investment Freedom
+1917,Iraq,,Investment Freedom
+1918,Ireland,90.0,Investment Freedom
+1919,Israel,75.0,Investment Freedom
+1920,Italy,80.0,Investment Freedom
+1921,Jamaica,80.0,Investment Freedom
+1922,Japan,60.0,Investment Freedom
+1923,Jordan,70.0,Investment Freedom
+1924,Kazakhstan,50.0,Investment Freedom
+1925,Kenya,55.0,Investment Freedom
+1926,Kiribati,25.0,Investment Freedom
+1927,"Korea, North ",0.0,Investment Freedom
+1928,"Korea, South",60.0,Investment Freedom
+1929,Kosovo,65.0,Investment Freedom
+1930,Kuwait,55.0,Investment Freedom
+1931,Kyrgyz Republic,60.0,Investment Freedom
+1932,Laos,35.0,Investment Freedom
+1933,Latvia,85.0,Investment Freedom
+1934,Lebanon,60.0,Investment Freedom
+1935,Lesotho,55.0,Investment Freedom
+1936,Liberia,55.0,Investment Freedom
+1937,Libya,5.0,Investment Freedom
+1938,Liechtenstein,85.0,Investment Freedom
+1939,Lithuania,70.0,Investment Freedom
+1940,Luxembourg,95.0,Investment Freedom
+1941,North Macedonia,65.0,Investment Freedom
+1942,Madagascar,55.0,Investment Freedom
+1943,Malawi,50.0,Investment Freedom
+1944,Malaysia,60.0,Investment Freedom
+1945,Maldives,35.0,Investment Freedom
+1946,Mali,65.0,Investment Freedom
+1947,Malta,85.0,Investment Freedom
+1948,Mauritania,50.0,Investment Freedom
+1949,Mauritius,80.0,Investment Freedom
+1950,Mexico,75.0,Investment Freedom
+1951,Micronesia,35.0,Investment Freedom
+1952,Moldova,55.0,Investment Freedom
+1953,Mongolia,50.0,Investment Freedom
+1954,Montenegro,75.0,Investment Freedom
+1955,Morocco,65.0,Investment Freedom
+1956,Mozambique,35.0,Investment Freedom
+1957,Namibia,65.0,Investment Freedom
+1958,Nepal,10.0,Investment Freedom
+1959,Netherlands,90.0,Investment Freedom
+1960,New Zealand,80.0,Investment Freedom
+1961,Nicaragua,60.0,Investment Freedom
+1962,Niger,55.0,Investment Freedom
+1963,Nigeria,45.0,Investment Freedom
+1964,Norway,75.0,Investment Freedom
+1965,Oman,65.0,Investment Freedom
+1966,Pakistan,60.0,Investment Freedom
+1967,Panama,75.0,Investment Freedom
+1968,Papua New Guinea,25.0,Investment Freedom
+1969,Paraguay,75.0,Investment Freedom
+1970,Peru,75.0,Investment Freedom
+1971,Philippines,60.0,Investment Freedom
+1972,Poland,80.0,Investment Freedom
+1973,Portugal,70.0,Investment Freedom
+1974,Qatar,60.0,Investment Freedom
+1975,Romania,70.0,Investment Freedom
+1976,Russia,30.0,Investment Freedom
+1977,Rwanda,60.0,Investment Freedom
+1978,Saint Lucia,65.0,Investment Freedom
+1979,Saint Vincent and the Grenadines,70.0,Investment Freedom
+1980,Samoa,55.0,Investment Freedom
+1981,São Tomé and Príncipe,60.0,Investment Freedom
+1982,Saudi Arabia,45.0,Investment Freedom
+1983,Senegal,60.0,Investment Freedom
+1984,Serbia,70.0,Investment Freedom
+1985,Seychelles,55.0,Investment Freedom
+1986,Sierra Leone,60.0,Investment Freedom
+1987,Singapore,85.0,Investment Freedom
+1988,Slovakia,75.0,Investment Freedom
+1989,Slovenia,70.0,Investment Freedom
+1990,Solomon Islands,15.0,Investment Freedom
+1991,Somalia,,Investment Freedom
+1992,South Africa,45.0,Investment Freedom
+1993,Spain,85.0,Investment Freedom
+1994,Sri Lanka,40.0,Investment Freedom
+1995,Sudan,5.0,Investment Freedom
+1996,Suriname,40.0,Investment Freedom
+1997,Sweden,85.0,Investment Freedom
+1998,Switzerland,85.0,Investment Freedom
+1999,Syria,0.0,Investment Freedom
+2000,Taiwan ,60.0,Investment Freedom
+2001,Tajikistan,25.0,Investment Freedom
+2002,Tanzania,55.0,Investment Freedom
+2003,Thailand,55.0,Investment Freedom
+2004,Timor-Leste,45.0,Investment Freedom
+2005,Togo,60.0,Investment Freedom
+2006,Tonga,40.0,Investment Freedom
+2007,Trinidad and Tobago,60.0,Investment Freedom
+2008,Tunisia,45.0,Investment Freedom
+2009,Turkey,70.0,Investment Freedom
+2010,Turkmenistan,10.0,Investment Freedom
+2011,Uganda,55.0,Investment Freedom
+2012,Ukraine,35.0,Investment Freedom
+2013,United Arab Emirates,40.0,Investment Freedom
+2014,United Kingdom,80.0,Investment Freedom
+2015,United States,85.0,Investment Freedom
+2016,Uruguay,85.0,Investment Freedom
+2017,Uzbekistan,20.0,Investment Freedom
+2018,Vanuatu,65.0,Investment Freedom
+2019,Venezuela,0.0,Investment Freedom
+2020,Vietnam,40.0,Investment Freedom
+2021,Yemen,,Investment Freedom
+2022,Zambia,55.0,Investment Freedom
+2023,Zimbabwe,25.0,Investment Freedom
+2024,Afghanistan,10.0,Financial Freedom
+2025,Albania,70.0,Financial Freedom
+2026,Algeria,30.0,Financial Freedom
+2027,Angola,40.0,Financial Freedom
+2028,Argentina,60.0,Financial Freedom
+2029,Armenia,70.0,Financial Freedom
+2030,Australia,90.0,Financial Freedom
+2031,Austria,70.0,Financial Freedom
+2032,Azerbaijan,60.0,Financial Freedom
+2033,Bahamas,60.0,Financial Freedom
+2034,Bahrain,80.0,Financial Freedom
+2035,Bangladesh,30.0,Financial Freedom
+2036,Barbados,60.0,Financial Freedom
+2037,Belarus,20.0,Financial Freedom
+2038,Belgium,70.0,Financial Freedom
+2039,Belize,50.0,Financial Freedom
+2040,Benin,50.0,Financial Freedom
+2041,Bhutan,30.0,Financial Freedom
+2042,Bolivia,40.0,Financial Freedom
+2043,Bosnia and Herzegovina,60.0,Financial Freedom
+2044,Botswana,70.0,Financial Freedom
+2045,Brazil,50.0,Financial Freedom
+2046,Brunei Darussalam,50.0,Financial Freedom
+2047,Bulgaria,60.0,Financial Freedom
+2048,Burkina Faso,40.0,Financial Freedom
+2049,Burma,20.0,Financial Freedom
+2050,Burundi,30.0,Financial Freedom
+2051,Cambodia,50.0,Financial Freedom
+2052,Cameroon,50.0,Financial Freedom
+2053,Canada,80.0,Financial Freedom
+2054,Cabo Verde,60.0,Financial Freedom
+2055,Central African Republic,30.0,Financial Freedom
+2056,Chad,40.0,Financial Freedom
+2057,Chile,70.0,Financial Freedom
+2058,China,20.0,Financial Freedom
+2059,Colombia,70.0,Financial Freedom
+2060,Comoros,30.0,Financial Freedom
+2061,"Congo, Democratic Republic of the Congo",20.0,Financial Freedom
+2062,"Congo, Republic of",30.0,Financial Freedom
+2063,Costa Rica,50.0,Financial Freedom
+2064,Côte d'Ivoire,50.0,Financial Freedom
+2065,Croatia,60.0,Financial Freedom
+2066,Cuba,10.0,Financial Freedom
+2067,Cyprus,60.0,Financial Freedom
+2068,Czech Republic,80.0,Financial Freedom
+2069,Denmark,80.0,Financial Freedom
+2070,Djibouti,50.0,Financial Freedom
+2071,Dominica,40.0,Financial Freedom
+2072,Dominican Republic,40.0,Financial Freedom
+2073,Ecuador,40.0,Financial Freedom
+2074,Egypt,50.0,Financial Freedom
+2075,El Salvador,60.0,Financial Freedom
+2076,Equatorial Guinea,30.0,Financial Freedom
+2077,Eritrea,20.0,Financial Freedom
+2078,Estonia,70.0,Financial Freedom
+2079,Eswatini,40.0,Financial Freedom
+2080,Ethiopia,20.0,Financial Freedom
+2081,Fiji,50.0,Financial Freedom
+2082,Finland,80.0,Financial Freedom
+2083,France,70.0,Financial Freedom
+2084,Gabon,40.0,Financial Freedom
+2085,Gambia,50.0,Financial Freedom
+2086,Georgia,70.0,Financial Freedom
+2087,Germany,70.0,Financial Freedom
+2088,Ghana,60.0,Financial Freedom
+2089,Greece,50.0,Financial Freedom
+2090,Guatemala,50.0,Financial Freedom
+2091,Guinea,40.0,Financial Freedom
+2092,Guinea-Bissau,30.0,Financial Freedom
+2093,Guyana,30.0,Financial Freedom
+2094,Haiti,30.0,Financial Freedom
+2095,Honduras,60.0,Financial Freedom
+2096,Hungary,70.0,Financial Freedom
+2097,Iceland,70.0,Financial Freedom
+2098,India,40.0,Financial Freedom
+2099,Indonesia,60.0,Financial Freedom
+2100,Iran,10.0,Financial Freedom
+2101,Iraq,,Financial Freedom
+2102,Ireland,70.0,Financial Freedom
+2103,Israel,70.0,Financial Freedom
+2104,Italy,50.0,Financial Freedom
+2105,Jamaica,50.0,Financial Freedom
+2106,Japan,60.0,Financial Freedom
+2107,Jordan,60.0,Financial Freedom
+2108,Kazakhstan,50.0,Financial Freedom
+2109,Kenya,50.0,Financial Freedom
+2110,Kiribati,30.0,Financial Freedom
+2111,"Korea, North ",0.0,Financial Freedom
+2112,"Korea, South",60.0,Financial Freedom
+2113,Kosovo,30.0,Financial Freedom
+2114,Kuwait,60.0,Financial Freedom
+2115,Kyrgyz Republic,50.0,Financial Freedom
+2116,Laos,20.0,Financial Freedom
+2117,Latvia,60.0,Financial Freedom
+2118,Lebanon,50.0,Financial Freedom
+2119,Lesotho,40.0,Financial Freedom
+2120,Liberia,20.0,Financial Freedom
+2121,Libya,,Financial Freedom
+2122,Liechtenstein,80.0,Financial Freedom
+2123,Lithuania,70.0,Financial Freedom
+2124,Luxembourg,80.0,Financial Freedom
+2125,North Macedonia,60.0,Financial Freedom
+2126,Madagascar,50.0,Financial Freedom
+2127,Malawi,50.0,Financial Freedom
+2128,Malaysia,50.0,Financial Freedom
+2129,Maldives,30.0,Financial Freedom
+2130,Mali,40.0,Financial Freedom
+2131,Malta,60.0,Financial Freedom
+2132,Mauritania,40.0,Financial Freedom
+2133,Mauritius,70.0,Financial Freedom
+2134,Mexico,60.0,Financial Freedom
+2135,Micronesia,30.0,Financial Freedom
+2136,Moldova,50.0,Financial Freedom
+2137,Mongolia,50.0,Financial Freedom
+2138,Montenegro,50.0,Financial Freedom
+2139,Morocco,70.0,Financial Freedom
+2140,Mozambique,50.0,Financial Freedom
+2141,Namibia,40.0,Financial Freedom
+2142,Nepal,30.0,Financial Freedom
+2143,Netherlands,80.0,Financial Freedom
+2144,New Zealand,80.0,Financial Freedom
+2145,Nicaragua,50.0,Financial Freedom
+2146,Niger,40.0,Financial Freedom
+2147,Nigeria,40.0,Financial Freedom
+2148,Norway,60.0,Financial Freedom
+2149,Oman,60.0,Financial Freedom
+2150,Pakistan,40.0,Financial Freedom
+2151,Panama,70.0,Financial Freedom
+2152,Papua New Guinea,30.0,Financial Freedom
+2153,Paraguay,60.0,Financial Freedom
+2154,Peru,60.0,Financial Freedom
+2155,Philippines,60.0,Financial Freedom
+2156,Poland,70.0,Financial Freedom
+2157,Portugal,60.0,Financial Freedom
+2158,Qatar,60.0,Financial Freedom
+2159,Romania,50.0,Financial Freedom
+2160,Russia,30.0,Financial Freedom
+2161,Rwanda,40.0,Financial Freedom
+2162,Saint Lucia,40.0,Financial Freedom
+2163,Saint Vincent and the Grenadines,40.0,Financial Freedom
+2164,Samoa,30.0,Financial Freedom
+2165,São Tomé and Príncipe,30.0,Financial Freedom
+2166,Saudi Arabia,50.0,Financial Freedom
+2167,Senegal,40.0,Financial Freedom
+2168,Serbia,50.0,Financial Freedom
+2169,Seychelles,30.0,Financial Freedom
+2170,Sierra Leone,20.0,Financial Freedom
+2171,Singapore,80.0,Financial Freedom
+2172,Slovakia,70.0,Financial Freedom
+2173,Slovenia,50.0,Financial Freedom
+2174,Solomon Islands,30.0,Financial Freedom
+2175,Somalia,,Financial Freedom
+2176,South Africa,50.0,Financial Freedom
+2177,Spain,70.0,Financial Freedom
+2178,Sri Lanka,40.0,Financial Freedom
+2179,Sudan,20.0,Financial Freedom
+2180,Suriname,30.0,Financial Freedom
+2181,Sweden,80.0,Financial Freedom
+2182,Switzerland,90.0,Financial Freedom
+2183,Syria,,Financial Freedom
+2184,Taiwan ,60.0,Financial Freedom
+2185,Tajikistan,30.0,Financial Freedom
+2186,Tanzania,50.0,Financial Freedom
+2187,Thailand,60.0,Financial Freedom
+2188,Timor-Leste,20.0,Financial Freedom
+2189,Togo,30.0,Financial Freedom
+2190,Tonga,20.0,Financial Freedom
+2191,Trinidad and Tobago,50.0,Financial Freedom
+2192,Tunisia,30.0,Financial Freedom
+2193,Turkey,60.0,Financial Freedom
+2194,Turkmenistan,10.0,Financial Freedom
+2195,Uganda,40.0,Financial Freedom
+2196,Ukraine,30.0,Financial Freedom
+2197,United Arab Emirates,60.0,Financial Freedom
+2198,United Kingdom,80.0,Financial Freedom
+2199,United States,80.0,Financial Freedom
+2200,Uruguay,30.0,Financial Freedom
+2201,Uzbekistan,20.0,Financial Freedom
+2202,Vanuatu,40.0,Financial Freedom
+2203,Venezuela,10.0,Financial Freedom
+2204,Vietnam,50.0,Financial Freedom
+2205,Yemen,,Financial Freedom
+2206,Zambia,50.0,Financial Freedom
+2207,Zimbabwe,10.0,Financial Freedom
