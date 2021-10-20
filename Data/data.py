@@ -40,56 +40,56 @@ countries = ["Afghanistan", "Albania", "Algeria", "Angola", "Argentina", "Armeni
 
 #print(data_2021.columns)
 
-df1 = data_2021[['Country Name', 'Property Rights', "Unemployment (%)"]]
+df1 = data_2021[['Country Name', 'Region', 'Property Rights', "Unemployment (%)"]]
 df1['right'] = 'Property Rights'
-df1.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df1.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 #print(df1)
 
 #print(data_2021['Judical Effectiveness'])
-df2 = data_2021[['Country Name', 'Judical Effectiveness', "Unemployment (%)"]]
+df2 = data_2021[['Country Name', 'Region', 'Judical Effectiveness', "Unemployment (%)"]]
 df2['right'] = 'Judical Effectiveness'
-df2.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df2.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 #print(df2)
 
-df3 = data_2021[['Country Name', 'Government Integrity', "Unemployment (%)"]]
+df3 = data_2021[['Country Name', 'Region', 'Government Integrity', "Unemployment (%)"]]
 df3['right'] = 'Government Integrity'
-df3.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df3.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df4 = data_2021[['Country Name', 'Tax Burden', "Unemployment (%)"]]
+df4 = data_2021[['Country Name', 'Region', 'Tax Burden', "Unemployment (%)"]]
 df4['right'] = 'Tax Burden'
-df4.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df4.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df5 = data_2021[['Country Name', "Gov't Spending", "Unemployment (%)"]]
+df5 = data_2021[['Country Name', 'Region', "Gov't Spending", "Unemployment (%)"]]
 df5['right'] = "Gov't Spending"
-df5.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df5.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df6 = data_2021[['Country Name', "Fiscal Health", "Unemployment (%)"]]
+df6 = data_2021[['Country Name', 'Region', "Fiscal Health", "Unemployment (%)"]]
 df6['right'] = "Fiscal Health"
-df6.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df6.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df7 = data_2021[['Country Name', "Business Freedom", "Unemployment (%)"]]
+df7 = data_2021[['Country Name', 'Region', "Business Freedom", "Unemployment (%)"]]
 df7['right'] = "Business Freedom"
-df7.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df7.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df8 = data_2021[['Country Name', "Labor Freedom", "Unemployment (%)"]]
+df8 = data_2021[['Country Name', 'Region', "Labor Freedom", "Unemployment (%)"]]
 df8['right'] = "Labor Freedom"
-df8.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df8.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df9 = data_2021[['Country Name', "Monetary Freedom", "Unemployment (%)"]]
+df9 = data_2021[['Country Name', 'Region', "Monetary Freedom", "Unemployment (%)"]]
 df9['right'] = "Monetary Freedom"
-df9.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df9.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df10 = data_2021[['Country Name', "Trade Freedom", "Unemployment (%)"]]
+df10 = data_2021[['Country Name', 'Region', "Trade Freedom", "Unemployment (%)"]]
 df10['right'] = "Trade Freedom"
-df10.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df10.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df11 = data_2021[['Country Name', "Investment Freedom ", "Unemployment (%)"]]
+df11 = data_2021[['Country Name', 'Region', "Investment Freedom ", "Unemployment (%)"]]
 df11['right'] = "Investment Freedom"
-df11.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df11.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
-df12 = data_2021[['Country Name', "Financial Freedom", "Unemployment (%)"]]
+df12 = data_2021[['Country Name', 'Region', "Financial Freedom", "Unemployment (%)"]]
 df12['right'] = "Financial Freedom"
-df12.columns = ['Country', 'Score', "Unemployment (%)", 'Right']
+df12.columns = ['Country', 'Region', 'Score', "Unemployment (%)", 'Right']
 
 df = pd.concat([df1, df2, df3, df4, df5, df6, df7, df8, df9, df10, df11, df12], ignore_index=True)
 

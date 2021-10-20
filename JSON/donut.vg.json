@@ -53,7 +53,8 @@
           "joinaggregate": [
             { 
               "op": "mean",
-              "field": "Score"
+              "field": "Score",
+              "as": "Score"
             }
           ],
           "groupby": [
