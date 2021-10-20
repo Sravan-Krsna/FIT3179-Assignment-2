@@ -4,7 +4,7 @@
     "height": 400,
     "title": "Unemployment Rate against Economic Freedom of a Region",
     "data": {
-    "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/index2021_data.csv"
+    "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/factors.csv"
     },
     "params": [
         {
@@ -36,15 +36,19 @@
     ],
     "mark": "circle",
     "encoding": {
+    "facet": {
+        "field": "Right",
+        "type": "nominal",
+        "columns": 3},
     "x": {
     "field": "Unemployment (%)",
     "type": "quantitative",
     "title": "Unemployment Rate",
     "axis": {"tickCount": 7},
-    "scale": {"type": "linear", "domain": [1, 30]}
+    "scale": {"type": "linear", "domain": [1, 50]}
     },
     "y": {
-    "field": "Government Integrity",
+    "field": "Score",
     "type": "quantitative",
     "axis": {"tickCount": 6},
     "scale": {"type": "linear", "domain": [1, 100]}
@@ -74,10 +78,9 @@
     "value": 0.6
     },
     "tooltip": [
-        {"field": "Country Name", "type": "nominal"},
-        {"field": "Region Rank", "type": "nominal", "format": ","},
+        {"field": "Country", "type": "nominal"},
         {"field": "Unemployment (%)", "type": "quantitative", "format": ","},
-        {"field": "Government Integrity", "type": "quantitative", "format": ","}
+        {"field": "Score", "type": "quantitative", "format": ",", "title":"Factor Score"}
         ]
     }
    }
