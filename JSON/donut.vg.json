@@ -1,17 +1,93 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A simple donut chart with embedded data.",
-    "data": {
-      "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/Spending.csv"
+    "width": 800,
+  "height": 350,
+  "config": {
+    "view": {
+      "stroke": "transparent"
     },
-    "mark": {"type": "arc", "innerRadius": 50},
+      "axis": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
+      "legend": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
+      "header": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
+      "mark": {"font": "Open Sans"},
+      "title": {"font": "Open Sans", "subtitleFont": "Open Sans"}
+  },"background": "#f2f3f7",
+    "data": {
+        "url": "https://raw.githubusercontent.com/Sravan-Krsna/Sravan-Krsna/main/Data/factors.csv"
+    }, 
+    "params": [
+      
+        {
+          "name": "Country_selection",
+          "bind": {
+            "input": "select", 
+            "options": [
+              "Afghanistan", "Albania", "Algeria", "Angola", "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burma", "Burundi", "Cambodia", "Cameroon", "Canada", "Cabo Verde", 
+              "Central African Republic", "Chad", "Chile", "China", "Colombia", "Comoros", "Congo, Democratic Republic of the Congo", "Congo, Republic of", "Costa Rica", "Côte d'Ivoire", "Croatia", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Fiji", 
+              "Finland", "France", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Greece", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India", "Indonesia", "Iran", 
+              "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea, North" , "Korea, South", "Kosovo", "Kuwait", "Kyrgyz Republic", "Laos", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "North Macedonia", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Mauritania", "Mauritius", 
+              "Mexico", "Micronesia", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Namibia", "Nepal", "Netherlands", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Norway", "Oman", "Pakistan", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia", "Rwanda", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa", 
+              "São Tomé and Príncipe", "Saudi Arabia", "Senegal", "Serbia", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands", "Somalia", "South Africa", "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", 
+              "Switzerland", "Syria", "Taiwan" , "Tajikistan", "Tanzania", "Thailand", "Timor-Leste", "Togo", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", 
+              "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "Uruguay", "Uzbekistan", "Vanuatu", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"
+            ],
+            "labels": [
+              "Afghanistan", "Albania", "Algeria", "Angola", "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burma", "Burundi", "Cambodia", "Cameroon", "Canada", "Cabo Verde", 
+              "Central African Republic", "Chad", "Chile", "China", "Colombia", "Comoros", "Congo, Democratic Republic of the Congo", "Congo, Republic of", "Costa Rica", "Côte d'Ivoire", "Croatia", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Fiji", 
+              "Finland", "France", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Greece", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India", "Indonesia", "Iran", 
+              "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea, North" , "Korea, South", "Kosovo", "Kuwait", "Kyrgyz Republic", "Laos", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "North Macedonia", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Mauritania", "Mauritius", 
+              "Mexico", "Micronesia", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Namibia", "Nepal", "Netherlands", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Norway", "Oman", "Pakistan", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia", "Rwanda", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa", 
+              "São Tomé and Príncipe", "Saudi Arabia", "Senegal", "Serbia", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands", "Somalia", "South Africa", "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", 
+              "Switzerland", "Syria", "Taiwan" , "Tajikistan", "Tanzania", "Thailand", "Timor-Leste", "Togo", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", 
+              "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "Uruguay", "Uzbekistan", "Vanuatu", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"
+            ],
+            "name": "Country: "
+          }, "value": "Afghanistan"
+        }
+      ],
+      "transform": [
+        {
+          "filter":  "Country_selection == datum.Country"
+        },
+        {
+          "joinaggregate": [
+            { 
+              "op": "mean",
+              "field": "Score"
+            }
+          ],
+          "groupby": [
+            "Country", "Right", "Score"
+          ]
+        }
+    ],
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 25, "stroke":null}
+    },{
+      "mark": {"type": "text", "radiusOffset": 11},
+      "encoding": {
+        "text": {"field": "Score", "type": "quantitative","format": ".2f"}
+      }
+    }],
     "encoding": {
-      "theta": {"field": "Average Spending", "type": "quantitative"},
-      "color": {"field": "Region", "type": "nominal"},
+      "theta": {"field": "Score", "type": "quantitative", "stack": true, "aggregate": "mean"},
+      "radius": {"field": "Score", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}, "aggregate": "mean"},
+      "color": {"field": "Right", "type": "nominal",
+      "scale": {"range": ["#E69F00", "#56B4E9", "#009E73", "#D55E00", "#CC79A7", "#0072B2", 
+                        "##FF0000", "#FF00FF", "#7FFFD4", "#2C3539", "#046307", "#E799A3"]}
+      },
       "tooltip": [
-          {"field":"Region", "type": "nominal"},
-          {"field":"Average Spending", "type": "quantitative", "title": "Total Spending (Million)"}
-    ]
+        {
+            "field": "Right",
+            "type": "nominal",
+            "title": "Factors"
+        },
+        {
+            "field": "Score",
+            "type": "quantitative",
+            "format": ".2f",
+            "title": "Average Score"
+        }   
+            ]
     }
   }
-  
